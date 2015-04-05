@@ -30,7 +30,6 @@ Existem poucos registros acerca do primeiro filme produzido em Santa Catarina. S
 | 1929 | Alfredo Baumgarten | Alfredo Baumgarten | Documentário | 35 mm | Florianópolis |
 | 1929 | Os festejos do Centenário da Colonização Alemã em São Pedro de Alcântara e São José | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
 | 1930 | A Grande Parada da Força Pública Estadual | J.J. Gomes | Documentário | 35 mm | Florianópolis |
-|}
 
 == A Baronesa e outras produções 1930 a 1955 ==
 
@@ -54,7 +53,6 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 ! width=11% | Local de Produção
 ! width=10% | Produtor
 | 1958 | O Preço da Ilusão | Nilton Nascimento | Ficção | 35 mm | Florianópolis | Armando Carreirão
-|}
 
 * “Carreirão começou, então, a produzir filmes publicitários (...) de bailes de debutantes, visitas de autoridades, jogas de futebol, concursos de beleza e outros acontecimentos. O principla cliente de trabalhos de divulgação erro o Governo do Estado. Foram feitas 180 produções, de 1958 a 1970. Todos os filmes eram produzidos em Santa Catarina e revelados, montados e mixados em São Paulo (...).”<ref name=ZecaPires4>{{Cite book| last =PIRES | first =José Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =52 |  year =1987| postscript =<!--None-->}}</ref>
 == Guca 1969 a 1979 ==
@@ -82,7 +80,6 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 | 1977 | Putz | Paulo R. Rocha | Animação | Super 8 | Florianópolis |
 | 1978 | Fpolis Era | Hiedy de Assis Corrêa Hassis | Ficção | Super 8 | Florianópolis |
 | 1979 | A Dança do Boi | Hiedy de Assis Corrêa Hassis | Animação | Super 8 | Florianópolis |
-|}
 
 == Cinema Universitário dos anos 80 ==
 
@@ -112,7 +109,6 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 | 1987 | Família | Mauro Faccioni Filho e Charles Odair da Silva | Animação | 16 mm | Florianópolis |
 | 1987 | João Brasil | Zeca Pires | Ficção | Super 8 | Florianópolis |
 | 1987 | Uma Administração | Desconhecido | Documentário | 16 mm | Chapecó  |
-|}
 
 == A Retomada em SC ==
 
@@ -132,7 +128,6 @@ A Retomada do Cinema em Santa Catarina é considerada a partir do lançamento do
 | 1996 | Homem sem terra - A volta de João Amorim | Francisco Cavalcanti | Ficção | 35 mm | Lages | |
 | 1997 | Shuim, O Grande Dragão Rosa | Cristiano Popov Zambias | Ficção | 35 mm | Chapecó | Conspiração Trash Produções |
 | 1999 | Cruz e Sousa o poeta do Desterro | Sylvio Back | Ficção | 35 mm | Blumenau | |
-|}
 
 === Curta e Média-metragens ===
 
@@ -181,7 +176,6 @@ Exibido no 2º Catavídeo
 | 2000 | A Fuga | Conjuração Trash |  | Vídeo | Chapecó | |
 | 2000 | Madre Paulina | Chico Faganello | Documentário | Vídeo | Florianópolis | |
 | 2000 | Mergulhando em Bombinhas | Leandro Rangel | Documentário | Super 8 | Florianópolis | |
-|}
 
 == Cinema Contemporâneo ==
 
@@ -206,7 +200,6 @@ Prêmio especial do Juri – Forumdoc.bh 2005
 | 2007 | Olhar de um Cineasta | César Cavalcanti | Documentário | Vídeo | Florianópolis |  |
 | 2008 | Sistema de Animação | Guilherme Ledoux e Alan Langdon | Documentário | Vídeo | Florianópolis |  |
 | 2009 | Maciço | Pedro MC | Documentário | Vídeo | Florianópolis| | Contemplado pelo Prêmio Cinemateca Catarinense FCC 2005
-|}
 
 === Curta e Média-metragens ===
 
@@ -600,7 +593,6 @@ Exibido no FAM 2010
 |  | O Vinho das Almas | Michael Ende | Documentário | Vídeo | Florianópolis |  |
 |  | Wara Feelin | Gustavo Cacciorro | Experimental | Vídeo | Florianópolis |  |
 | | X | Simone Bastos | Experimental | Vídeo | Florianópolis |  |
-|}
 
 == Bibliografia ==
 

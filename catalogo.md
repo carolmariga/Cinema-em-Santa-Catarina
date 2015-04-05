@@ -44,7 +44,6 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 
 == Grupo Sul 1956 e 1968 ==
 
-{| class="wikitable" width= "75%"
 ! width=4% | Ano
 ! width=20% | Filme
 ! width=11% | Diretor
@@ -61,7 +60,6 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 === Hassis ===
 
 *“Suas experiências estéticas com cinema começaram em 1964, quando adquiriu um equipamento 8 mm para filmear sua família. Três anos mais tarde ele comprou o equipamento Super 8 e começou a filmar Florianópolis. Estas imagens dão origem ao seu primeiro filme “Retalhos”. As incursos de Hassis no cinema geram 7 curtas metragens, que vão da alegoria à animação”<ref name=ZecaPires6>{{Cite book| last =PIRES | first =José Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina | publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =67 |  year =1987 | postscript =<!--None-->}}</ref>
-{| class="wikitable" width= "100%"
 ! width=4% | Ano
 ! width=22% | Filme
 ! width=17% | Diretor
@@ -83,7 +81,6 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 
 == Cinema Universitário dos anos 80 ==
 
-{| class="wikitable" width= "100%"
 ! width=4% | Ano
 ! width=22% | Filme
 ! width=30% | Diretor
@@ -116,7 +113,6 @@ A Retomada do Cinema em Santa Catarina é considerada a partir do lançamento do
 
 === Longa-metragens ===
 
-{| class="wikitable" width= "100%"
 ! width=4% | Ano
 ! width=20% | Filme
 ! width=17% | Diretor
@@ -131,7 +127,6 @@ A Retomada do Cinema em Santa Catarina é considerada a partir do lançamento do
 
 === Curta e Média-metragens ===
 
-{| class="wikitable" width= "100%"
 ! width=4% | Ano
 ! width=20% | Filme
 ! width=17% | Diretor
@@ -181,7 +176,6 @@ Exibido no 2º Catavídeo
 
 === Longa-metragens ===
 
-{| class="wikitable" width= "100%"
 ! width=4% | Ano
 ! width=20% | Filme
 ! width=17% | Diretor
@@ -203,7 +197,6 @@ Prêmio especial do Juri – Forumdoc.bh 2005
 
 === Curta e Média-metragens ===
 
-{| class="wikitable" width= "100%"
 ! width=4% | Ano
 ! width=20% | Filme
 ! width=17% | Diretor

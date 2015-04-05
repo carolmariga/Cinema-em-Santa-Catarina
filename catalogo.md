@@ -1,70 +1,58 @@
-Lista e histÛrico da produÁ„o de cinema realizado no estado de [[Santa Catarina]], [[Brasil]].
+Lista e hist√≥rico da produ√ß√£o de cinema realizado no estado de [[Santa Catarina]], [[Brasil]].
 
 == Primeiro Cinema 1900 a 1920 ==
 
 Existem poucos registros acerca do primeiro filme produzido em Santa Catarina. Sabe-se apenas das vistas, como sinaliza Zeca Pires em seu livro O cinema em Santa Catarina:
 
-*î(...) È possÌvel que o primeiro filme produzido em Santa Catarina, sejam imagens apresentadas pelo CinematÛgrapho Apollo com vistas de Brusque, ItajaÌ e arredores. E quase mais nada se sabe sobre o inicio da produÁ„o local ì<ref name=ZecaPires>{{Cite book| last =PIRES | first =JosÈ Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =30 |  year =1987| postscript =<!--None-->}}</ref>
-{| class="wikitable" width= "45%"
-|-
-! width=3% | Ano
-! width=27% | Filme
-! width=9% | GÍnero
-! width=6% | Formato
-|-
-| 1900 || Vista de Brusque, ItajaÌ e arredores || Document·rio || |35 mm
-|-
-| 1901 || Vista de Santa Catarina || Document·rio || | 35 mm
-|}
+*‚Äù(...) √© poss√≠vel que o primeiro filme produzido em Santa Catarina, sejam imagens apresentadas pelo Cinemat√≥grapho Apollo com vistas de Brusque, Itaja√≠ e arredores. E quase mais nada se sabe sobre o inicio da produ√ß√£o local ‚Äú<ref name=ZecaPires>{{Cite book| last =PIRES | first =Jos√© Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =30 |  year =1987| postscript =<!--None-->}}</ref>
 
-== Cinema de CavaÁ„o 1921 a 1930 ==
+| Ano | Filme | G√™nero | Formato |
+| --- | ----- | ------ | ------- |
+| 1900 | Vista de Brusque, Itaja√≠ e arredores | Document√°rio | 35 mm
+| 1901 | Vista de Santa Catarina | Document√°rio | 35 mm
 
-* ìDe posse de uma filmadora de 35 mm, Baumgarten mesmo, revelava e copiava seus filmes (...). Geralmente document·rios sobre acontecimentos polÌticos e sociais (...).î<ref name=ZecaPires2>{{Cite book| last =PIRES | first =JosÈ Henrique Nunes |publication-date =2000| title =Cinema e HistÛria: JosÈ Julianelli e Alfredo Baumgarten, pioneiros do cinema catarinense| publisher =Blumenau: Edifurb | page =32 |year =2000| postscript =<!--None-->}}</ref>
-{| class="wikitable" width= "95%"
+== Cinema de Cava√ß√£o 1921 a 1930 ==
+
+* ‚ÄúDe posse de uma filmadora de 35 mm, Baumgarten mesmo, revelava e copiava seus filmes (...). Geralmente document√°rios sobre acontecimentos pol√≠ticos e sociais (...).‚Äù<ref name=ZecaPires2>{{Cite book| last =PIRES | first =Jos√© Henrique Nunes |publication-date =2000| title =Cinema e Hist√≥ria: Jos√© Julianelli e Alfredo Baumgarten, pioneiros do cinema catarinense| publisher =Blumenau: Edifurb | page =32 |year =2000| postscript =<!--None-->}}</ref>
+
+| Ano | Filme | Diretor | G√™nero | Formato | Local de Produ√ß√£o | Produtora |
+| --- | ----- | ------- | ------ | ------- | ----------------- | --------- |
+| 1925 | 75 anos de Blumenau - 9¬™ C. Metralhadora | Jos√© Julianelli | Document√°rio | 35 mm | Blumenau | Universum Filme |
+
 |-
-! width=4% | Ano
-! width=44% | Filme
-! width=11% | Diretor
-! width=9% | GÍnero
-! width=6% | Formato
-! width=11% | Local de ProduÁ„o
-! width=10% | Produtora
+| 1925 || O jubileu do 75¬∫ anivers√°rio da Funda√ß√£o de Blumenau no dia 15 de novembro de 1925 || Jos√© Julianelli || Document√°rio || 35 mm || Blumenau || Universum Filme 
 |-
-| 1925 || 75 anos de Blumenau - 9™ C. Metralhadora || JosÈ Julianelli || Document·rio || 35 mm || Blumenau || Universum Filme 
+| 1926 || Centen√°rio de S√£o Jos√© || Jos√© Julianelli || Document√°rio || 35 mm || Blumenau || Universum Filme 
 |-
-| 1925 || O jubileu do 75∫ anivers·rio da FundaÁ„o de Blumenau no dia 15 de novembro de 1925 || JosÈ Julianelli || Document·rio || 35 mm || Blumenau || Universum Filme 
+| 1926 || Chegada do Pr√≠ncipe de Orleans e Bragan√ßa a Joinville || Jos√© Julianelli || Document√°rio || 35 mm || Blumenau || Universum Filme 
 |-
-| 1926 || Centen·rio de S„o JosÈ || JosÈ Julianelli || Document·rio || 35 mm || Blumenau || Universum Filme 
-|-
-| 1926 || Chegada do PrÌncipe de Orleans e BraganÁa a Joinville || JosÈ Julianelli || Document·rio || 35 mm || Blumenau || Universum Filme 
-|-
-| 1926 || InauguraÁ„o da Ponte HercÌlio Luz || JosÈ Julianelli || Document·rio || 35 mm || FlorianÛpolis || Universum Filme 
+| 1926 || Inaugura√ß√£o da Ponte Herc√≠lio Luz || Jos√© Julianelli || Document√°rio || 35 mm || Florian√≥polis || Universum Filme 
 |- 
-| 1926 || InauguraÁ„o da Ponte de Indaial || JosÈ Julianelli || Document·rio || 35 mm || Indaial || Universum Filme 
+| 1926 || Inaugura√ß√£o da Ponte de Indaial || Jos√© Julianelli || Document√°rio || 35 mm || Indaial || Universum Filme 
 |-
-| 1926 || O Progresso de Blumenau || JosÈ Julianelli || Document·rio || 35 mm || Blumenau || Universum Filme 
+| 1926 || O Progresso de Blumenau || Jos√© Julianelli || Document√°rio || 35 mm || Blumenau || Universum Filme 
 |-
-| 1926 || RecepÁ„o ‡ chegada em Blumenau do IlustrÌssimo Dr. Adolpho Konder digno futuro governador do Estado de Santa Catarina || JosÈ Julianelli || Document·rio || 35 mm || Blumenau || Universum Filme 
+| 1926 || Recep√ß√£o √† chegada em Blumenau do Ilustr√≠ssimo Dr. Adolpho Konder digno futuro governador do Estado de Santa Catarina || Jos√© Julianelli || Document√°rio || 35 mm || Blumenau || Universum Filme 
 |-
-| 1928 || Washington Luis em Joinville || JosÈ Julianelli || Document·rio || 35 mm || Joinville || Universum Filme 
+| 1928 || Washington Luis em Joinville || Jos√© Julianelli || Document√°rio || 35 mm || Joinville || Universum Filme 
 |-
-| 1929 || Alfredo Baumgarten || Alfredo Baumgarten || Document·rio || 35 mm || FlorianÛpolis || 
+| 1929 || Alfredo Baumgarten || Alfredo Baumgarten || Document√°rio || 35 mm || Florian√≥polis || 
 |-
-| 1929 || Os festejos do Centen·rio da ColonizaÁ„o Alem„ em S„o Pedro de Alc‚ntara e S„o JosÈ || JosÈ Julianelli || Document·rio || 35 mm || Blumenau || Universum Filme
+| 1929 || Os festejos do Centen√°rio da Coloniza√ß√£o Alem√£ em S√£o Pedro de Alc√¢ntara e S√£o Jos√© || Jos√© Julianelli || Document√°rio || 35 mm || Blumenau || Universum Filme
 |-
-| 1930 || A Grande Parada da ForÁa P˙blica Estadual || J.J. Gomes || Document·rio || 35 mm || FlorianÛpolis ||
+| 1930 || A Grande Parada da For√ßa P√∫blica Estadual || J.J. Gomes || Document√°rio || 35 mm || Florian√≥polis ||
 |}
 
-== A Baronesa e outras produÁıes 1930 a 1955 ==
+== A Baronesa e outras produ√ß√µes 1930 a 1955 ==
 
-No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes ‡ Edla von Wangenheim, a Baronesa, com imagens da cidade de FlorianÛpolis ao final dos anos 30.
+No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes √† Edla von Wangenheim, a Baronesa, com imagens da cidade de Florian√≥polis ao final dos anos 30.
 
-*ìFilmes em 16 mm feitos por Edla von Wangenheim ajudam a conhecer a cidade de FlorianÛpolis do final dos anos 30 e inÌcio dos anos 40. O material foi recuperado pelo projeto Marint, do Curso de Jornalismo da UFSC. (...) Os rolos com trÍs minutos de cenas (em mÈdia) cada um mostram algumas cidades catarinenses e principalmente a Ilha de Santa Catarina, em FlorianÛpolis. (...) E a riqueza dos filmes de Edla est· presente no cotidiano que retratou. As festas de p·scoa, das crianÁas da famÌlia, os passeios pela Ilha, o final de uma caÁa ‡ baleia na praia da ArmaÁ„o do P‚ntano do Sul, enfim, a vida da famÌlia no final dos anos 30 e inÌcio dos 40.î<ref name=Crocomo>{{Cite book| last =CROCOMO | first =Fernando Antonio | last2 =TASSO NETO | first2 =Luiz | last3 =WANGENHEIM | first3 =Aldo von |publication-date =2004| title =A descoberta de filmes em 16 mm recupera a memÛria de FlorianÛpolis do final dos anos 30 e 40, estimula a participaÁ„o da comunidade em programas de TV e revela a primeira cineasta catarinense| publisher =Porto Alegre: Congresso Brasileiro de CiÍncias da ComunicaÁ„o ñ Intercom | page =1 e 2 |  year =2004| postscript =<!--None-->}}</ref>
+*‚ÄúFilmes em 16 mm feitos por Edla von Wangenheim ajudam a conhecer a cidade de Florian√≥polis do final dos anos 30 e in√≠cio dos anos 40. O material foi recuperado pelo projeto Marint, do Curso de Jornalismo da UFSC. (...) Os rolos com tr√™s minutos de cenas (em m√©dia) cada um mostram algumas cidades catarinenses e principalmente a Ilha de Santa Catarina, em Florian√≥polis. (...) E a riqueza dos filmes de Edla est√° presente no cotidiano que retratou. As festas de p√°scoa, das crian√ßas da fam√≠lia, os passeios pela Ilha, o final de uma ca√ßa √† baleia na praia da Arma√ß√£o do P√¢ntano do Sul, enfim, a vida da fam√≠lia no final dos anos 30 e in√≠cio dos 40.‚Äù<ref name=Crocomo>{{Cite book| last =CROCOMO | first =Fernando Antonio | last2 =TASSO NETO | first2 =Luiz | last3 =WANGENHEIM | first3 =Aldo von |publication-date =2004| title =A descoberta de filmes em 16 mm recupera a mem√≥ria de Florian√≥polis do final dos anos 30 e 40, estimula a participa√ß√£o da comunidade em programas de TV e revela a primeira cineasta catarinense| publisher =Porto Alegre: Congresso Brasileiro de Ci√™ncias da Comunica√ß√£o ‚Äì Intercom | page =1 e 2 |  year =2004| postscript =<!--None-->}}</ref>
 
 === Willy Sievert ===
 
-*ìJ· em 1952, influenciado por um amigo, adquiriu sua primeira filmadora, uma Keystone. Depois com uma Polaroid Bolex produziu atÈ 1983 cerca de 62 jornais de Blumenau em rolos de 400 pÈs, com vinte minutos de duraÁ„o e diversos filmes sobre acontecimentos locais. Willy Sievert registrou desde 1952, quase todos os fatos locais de sua cidade, Blumenau, em filmes mudos de 16 mm.î<ref name=ZecaPires3>{{Cite book| last =PIRES | first =JosÈ Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =33 |  year =1987| postscript =<!--None-->}}</ref>
-*ìEle mesmo, sempre com uma filmadora 16 mm na m„o, filmou os principais acontecimentos ocorridos em Blumenau na segunda metade do sÈculo 20. Foram desfiles de 7 de setembro, enchentes, visitantes ilustres, festas da cerveja e tudo que pudesse ser registrado nos famosos ëcinejornaisí do ëseu Willyí.  Ele chegou a filmar o incÍndio de um navio petroleiro em ItajaÌ, uma tragÈdia que deixou o Estado inteiro assustado. Embora fossem mudos, estes filmes em sua maioria eram coloridos e constituem hoje em dia um registro muito importante da histÛria do municÌpio.î<ref name=Mueller>{{Cite book| last =MUELLER | first =Carlos Braga |publication-date =2010| title =O Cinema em Blumenau| publisher =Florianopolis: Sem Editora |  year =2010| postscript =<!--None-->}}</ref>
+*‚ÄúJ√° em 1952, influenciado por um amigo, adquiriu sua primeira filmadora, uma Keystone. Depois com uma Polaroid Bolex produziu at√© 1983 cerca de 62 jornais de Blumenau em rolos de 400 p√©s, com vinte minutos de dura√ß√£o e diversos filmes sobre acontecimentos locais. Willy Sievert registrou desde 1952, quase todos os fatos locais de sua cidade, Blumenau, em filmes mudos de 16 mm.‚Äù<ref name=ZecaPires3>{{Cite book| last =PIRES | first =Jos√© Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =33 |  year =1987| postscript =<!--None-->}}</ref>
+*‚ÄúEle mesmo, sempre com uma filmadora 16 mm na m√£o, filmou os principais acontecimentos ocorridos em Blumenau na segunda metade do s√©culo 20. Foram desfiles de 7 de setembro, enchentes, visitantes ilustres, festas da cerveja e tudo que pudesse ser registrado nos famosos ‚Äòcinejornais‚Äô do ‚Äòseu Willy‚Äô.  Ele chegou a filmar o inc√™ndio de um navio petroleiro em Itaja√≠, uma trag√©dia que deixou o Estado inteiro assustado. Embora fossem mudos, estes filmes em sua maioria eram coloridos e constituem hoje em dia um registro muito importante da hist√≥ria do munic√≠pio.‚Äù<ref name=Mueller>{{Cite book| last =MUELLER | first =Carlos Braga |publication-date =2010| title =O Cinema em Blumenau| publisher =Florianopolis: Sem Editora |  year =2010| postscript =<!--None-->}}</ref>
 
 == Grupo Sul 1956 e 1968 ==
 
@@ -73,106 +61,106 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes ‡ Edla von
 ! width=4% | Ano
 ! width=20% | Filme
 ! width=11% | Diretor
-! width=9% | GÍnero
+! width=9% | G√™nero
 ! width=6% | Formato
-! width=11% | Local de ProduÁ„o
+! width=11% | Local de Produ√ß√£o
 ! width=10% | Produtor
 |-
-| 1958 || O PreÁo da Ilus„o || Nilton Nascimento || FicÁ„o || 35 mm || FlorianÛpolis || Armando Carreir„o
+| 1958 || O Pre√ßo da Ilus√£o || Nilton Nascimento || Fic√ß√£o || 35 mm || Florian√≥polis || Armando Carreir√£o
 |}
 
-* ìCarreir„o comeÁou, ent„o, a produzir filmes publicit·rios (...) de bailes de debutantes, visitas de autoridades, jogas de futebol, concursos de beleza e outros acontecimentos. O principla cliente de trabalhos de divulgaÁ„o erro o Governo do Estado. Foram feitas 180 produÁıes, de 1958 a 1970. Todos os filmes eram produzidos em Santa Catarina e revelados, montados e mixados em S„o Paulo (...).î<ref name=ZecaPires4>{{Cite book| last =PIRES | first =JosÈ Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =52 |  year =1987| postscript =<!--None-->}}</ref>
+* ‚ÄúCarreir√£o come√ßou, ent√£o, a produzir filmes publicit√°rios (...) de bailes de debutantes, visitas de autoridades, jogas de futebol, concursos de beleza e outros acontecimentos. O principla cliente de trabalhos de divulga√ß√£o erro o Governo do Estado. Foram feitas 180 produ√ß√µes, de 1958 a 1970. Todos os filmes eram produzidos em Santa Catarina e revelados, montados e mixados em S√£o Paulo (...).‚Äù<ref name=ZecaPires4>{{Cite book| last =PIRES | first =Jos√© Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =52 |  year =1987| postscript =<!--None-->}}</ref>
 == Guca 1969 a 1979 ==
 
-*ìEntusiasmados com a receptividade obtida pelo ëNoveloí, os integrantes do GUCA produziram um curtÌssima metragem. ëA vida È curta e ...í, onde ë bestaí ocuparia o lugar das reticÍncias. Uma crÌtica ao casamento burguÍs.î<ref name=ZecaPires5>{{Cite book| last =PIRES | first =JosÈ Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =58 |  year =1987| postscript =<!--None-->}}</ref>
+*‚ÄúEntusiasmados com a receptividade obtida pelo ‚ÄòNovelo‚Äô, os integrantes do GUCA produziram um curt√≠ssima metragem. ‚ÄòA vida √© curta e ...‚Äô, onde ‚Äò besta‚Äô ocuparia o lugar das retic√™ncias. Uma cr√≠tica ao casamento burgu√™s.‚Äù<ref name=ZecaPires5>{{Cite book| last =PIRES | first =Jos√© Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =58 |  year =1987| postscript =<!--None-->}}</ref>
 === Hassis ===
 
-*ìSuas experiÍncias estÈticas com cinema comeÁaram em 1964, quando adquiriu um equipamento 8 mm para filmear sua famÌlia. TrÍs anos mais tarde ele comprou o equipamento Super 8 e comeÁou a filmar FlorianÛpolis. Estas imagens d„o origem ao seu primeiro filme ìRetalhosî. As incursos de Hassis no cinema geram 7 curtas metragens, que v„o da alegoria ‡ animaÁ„oî<ref name=ZecaPires6>{{Cite book| last =PIRES | first =JosÈ Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina | publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =67 |  year =1987 | postscript =<!--None-->}}</ref>
+*‚ÄúSuas experi√™ncias est√©ticas com cinema come√ßaram em 1964, quando adquiriu um equipamento 8 mm para filmear sua fam√≠lia. Tr√™s anos mais tarde ele comprou o equipamento Super 8 e come√ßou a filmar Florian√≥polis. Estas imagens d√£o origem ao seu primeiro filme ‚ÄúRetalhos‚Äù. As incursos de Hassis no cinema geram 7 curtas metragens, que v√£o da alegoria √† anima√ß√£o‚Äù<ref name=ZecaPires6>{{Cite book| last =PIRES | first =Jos√© Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina | publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =67 |  year =1987 | postscript =<!--None-->}}</ref>
 {| class="wikitable" width= "100%"
 |-
 ! width=4% | Ano
 ! width=22% | Filme
 ! width=17% | Diretor
-! width=7% | GÍnero
+! width=7% | G√™nero
 ! width=6% | Formato
-! width=10% | Local de ProduÁ„o
+! width=10% | Local de Produ√ß√£o
 ! width=30% | Notas
 |-
-| 1969 || No Elevador || Rodrigo de Haro || Experimental || 16 mm || FlorianÛpolis ||
+| 1969 || No Elevador || Rodrigo de Haro || Experimental || 16 mm || Florian√≥polis ||
 |-
-| 1969 || Novelo || Pedro  Paulo Souza || FicÁ„o || 16 mm || FlorianÛpolis ||
+| 1969 || Novelo || Pedro  Paulo Souza || Fic√ß√£o || 16 mm || Florian√≥polis ||
 |-
-| 1970 || Batucada || Hiedy de Assis CorrÍa Hassis || Experimental || Super 8 || FlorianÛpolis ||
+| 1970 || Batucada || Hiedy de Assis Corr√™a Hassis || Experimental || Super 8 || Florian√≥polis ||
 |-
-| 1970 || Nau Fantasma || Gilberto Gerlach || Experimental || 16 mm || FlorianÛpolis ||
+| 1970 || Nau Fantasma || Gilberto Gerlach || Experimental || 16 mm || Florian√≥polis ||
 |-
-| 1972 || A Via Crucis || Deborah Cardoso Duarte e Nelson dos Santos Machado || FicÁ„o || 16 mm || FlorianÛpolis ||
+| 1972 || A Via Crucis || Deborah Cardoso Duarte e Nelson dos Santos Machado || Fic√ß√£o || 16 mm || Florian√≥polis ||
 |-
-| 1974 || O VÙo da Bailarina || Juliana Wosgraus e Ito Luenenberg || AnimaÁ„o || Super 8 || FlorianÛpolis ||
+| 1974 || O V√¥o da Bailarina || Juliana Wosgraus e Ito Luenenberg || Anima√ß√£o || Super 8 || Florian√≥polis ||
 |-
-| 1975 || O Palco || Juliana Wosgraus e Ito Luenenberg || AnimaÁ„o || Super 8 || FlorianÛpolis ||
+| 1975 || O Palco || Juliana Wosgraus e Ito Luenenberg || Anima√ß√£o || Super 8 || Florian√≥polis ||
 |-
-| 1976 || Olaria: A cer‚mica em S„o JosÈ e PalhoÁa -SC || Deborah Cardoso Duarte e Nelson dos Santos Machado || Document·rio || 16 mm || FlorianÛpolis || PrÍmio Cinemateca do Museu de Arte do Rio de Janeiro na VI Jornada Brasileira do Curta Metragem, em Salvador
+| 1976 || Olaria: A cer√¢mica em S√£o Jos√© e Palho√ßa -SC || Deborah Cardoso Duarte e Nelson dos Santos Machado || Document√°rio || 16 mm || Florian√≥polis || Pr√™mio Cinemateca do Museu de Arte do Rio de Janeiro na VI Jornada Brasileira do Curta Metragem, em Salvador
 |-
-| 1977 || Putz || Paulo R. Rocha || AnimaÁ„o || Super 8 || FlorianÛpolis ||
+| 1977 || Putz || Paulo R. Rocha || Anima√ß√£o || Super 8 || Florian√≥polis ||
 |-
-| 1978 || Fpolis Era || Hiedy de Assis CorrÍa Hassis || FicÁ„o || Super 8 || FlorianÛpolis ||
+| 1978 || Fpolis Era || Hiedy de Assis Corr√™a Hassis || Fic√ß√£o || Super 8 || Florian√≥polis ||
 |-
-| 1979 || A DanÁa do Boi || Hiedy de Assis CorrÍa Hassis || AnimaÁ„o || Super 8 || FlorianÛpolis ||
+| 1979 || A Dan√ßa do Boi || Hiedy de Assis Corr√™a Hassis || Anima√ß√£o || Super 8 || Florian√≥polis ||
 |}
 
-== Cinema Universit·rio dos anos 80 ==
+== Cinema Universit√°rio dos anos 80 ==
 
 {| class="wikitable" width= "100%"
 |-
 ! width=4% | Ano
 ! width=22% | Filme
 ! width=30% | Diretor
-! width=7% | GÍnero
+! width=7% | G√™nero
 ! width=6% | Formato
-! width=12% | Local de ProduÁ„o
+! width=12% | Local de Produ√ß√£o
 ! width=15% | Produtora
 |-
-| 1980 || Blunn, O desafio de uma raÁa || Gilson Giehl || FicÁ„o || Super 8 || Oeste de Santa Catarina || 
+| 1980 || Blunn, O desafio de uma ra√ßa || Gilson Giehl || Fic√ß√£o || Super 8 || Oeste de Santa Catarina || 
 |-
-| 1980 || Jeruza do Mar || Ody Fraga || FicÁ„o || 35mm || FlorianÛpolis || 
+| 1980 || Jeruza do Mar || Ody Fraga || Fic√ß√£o || 35mm || Florian√≥polis || 
 |-
-| 1984 || Di·rio de um ladr„o || Nina L˙cia Viegas || FicÁ„o || Super 8 || FlorianÛpolis || 
+| 1984 || Di√°rio de um ladr√£o || Nina L√∫cia Viegas || Fic√ß√£o || Super 8 || Florian√≥polis || 
 |-
-| 1984 || Ele nu e cru || Oswaldo Pereira Filho, Liliane Motta da Silveira e Marta Massolini || FicÁ„o || Super 8 || FlorianÛpolis || 
+| 1984 || Ele nu e cru || Oswaldo Pereira Filho, Liliane Motta da Silveira e Marta Massolini || Fic√ß√£o || Super 8 || Florian√≥polis || 
 |-
-| 1984 || InfanticÌdio || Jeanete di Pietro || FicÁ„o || Super 8  || FlorianÛpolis || 
+| 1984 || Infantic√≠dio || Jeanete di Pietro || Fic√ß√£o || Super 8  || Florian√≥polis || 
 |-
-| 1984 || Nicho Perdido  || Raquel Vieira Wandelli || FicÁ„o || Super 8 || FlorianÛpolis || 
+| 1984 || Nicho Perdido  || Raquel Vieira Wandelli || Fic√ß√£o || Super 8 || Florian√≥polis || 
 |-
-| 1984 || O Trote Universit·rio || Zeca Pires e Antonio Carlos Freitas || FicÁ„o || 35 mm || FlorianÛpolis || 
+| 1984 || O Trote Universit√°rio || Zeca Pires e Antonio Carlos Freitas || Fic√ß√£o || 35 mm || Florian√≥polis || 
 |-
-| 1984 || ¿ um passo da morte  || Jo„o Eduardo di Pietro || FicÁ„o || Super 8 || FlorianÛpolis ||
+| 1984 || √Ä um passo da morte  || Jo√£o Eduardo di Pietro || Fic√ß√£o || Super 8 || Florian√≥polis ||
 |-
-| 1985 || Conflito || Mauro Faccioni Filho || FicÁ„o || Super 8 || FlorianÛpolis ||
+| 1985 || Conflito || Mauro Faccioni Filho || Fic√ß√£o || Super 8 || Florian√≥polis ||
 |-
-| 1985 || Ilha Catarina, mulheres e meninas || Lena Bastos || Document·rio ||   ||  ||
+| 1985 || Ilha Catarina, mulheres e meninas || Lena Bastos || Document√°rio ||   ||  ||
 |-
-| 1986 || Alguns anos depois ||  ngelo Clemente Sganzerla || Document·rio || Super 8 || FlorianÛpolis ||
+| 1986 || Alguns anos depois ||  ngelo Clemente Sganzerla || Document√°rio || Super 8 || Florian√≥polis ||
 |-
-| 1986 || Jesus È traÌdo na cruz || Mauro Faccioni FIlho || FicÁ„o || 16 mm || FlorianÛpolis || 
+| 1986 || Jesus √© tra√≠do na cruz || Mauro Faccioni FIlho || Fic√ß√£o || 16 mm || Florian√≥polis || 
 |-
-| 1987 || Bruxa ||  Mauro Faccioni Filho || Document·rio || 16 mm || FlorianÛpolis || Ex-ComunicaÁıes
+| 1987 || Bruxa ||  Mauro Faccioni Filho || Document√°rio || 16 mm || Florian√≥polis || Ex-Comunica√ß√µes
 |-
-| 1987 || Calibre 12 || Jo„o Amorim || FicÁ„o || 35mm || Lages ||
+| 1987 || Calibre 12 || Jo√£o Amorim || Fic√ß√£o || 35mm || Lages ||
 |-
-| 1987 || Eis || Mauro Faccioni Filho || Document·rio || BP || || 
+| 1987 || Eis || Mauro Faccioni Filho || Document√°rio || BP || || 
 |-
-| 1987 || FamÌlia || Mauro Faccioni Filho e Charles Odair da Silva || AnimaÁ„o || 16 mm || FlorianÛpolis || 
+| 1987 || Fam√≠lia || Mauro Faccioni Filho e Charles Odair da Silva || Anima√ß√£o || 16 mm || Florian√≥polis || 
 |-
-| 1987 || Jo„o Brasil || Zeca Pires || FicÁ„o || Super 8 || FlorianÛpolis || 
+| 1987 || Jo√£o Brasil || Zeca Pires || Fic√ß√£o || Super 8 || Florian√≥polis || 
 |-
-| 1987 || Uma AdministraÁ„o || Desconhecido || Document·rio || 16 mm || ChapecÛ  ||
+| 1987 || Uma Administra√ß√£o || Desconhecido || Document√°rio || 16 mm || Chapec√≥  ||
 |}
 
 == A Retomada em SC ==
 
-A Retomada do Cinema em Santa Catarina È considerada a partir do lanÁamento do filme Manh„, de Zeca Pires, em 1990 e se encerra com o lanÁamento do primeiro ìEdital Cinemateca Catarinense FCCî (que mais tarde fora renomeado para ìPrÍmio Catarinense de Cinema FCCî) em 2001.
+A Retomada do Cinema em Santa Catarina √© considerada a partir do lan√ßamento do filme Manh√£, de Zeca Pires, em 1990 e se encerra com o lan√ßamento do primeiro ‚ÄúEdital Cinemateca Catarinense FCC‚Äù (que mais tarde fora renomeado para ‚ÄúPr√™mio Catarinense de Cinema FCC‚Äù) em 2001.
 
 === Longa-metragens ===
 
@@ -181,99 +169,99 @@ A Retomada do Cinema em Santa Catarina È considerada a partir do lanÁamento do f
 ! width=4% | Ano
 ! width=20% | Filme
 ! width=17% | Diretor
-! width=7% | GÍnero
+! width=7% | G√™nero
 ! width=5% | Formato
-! width=10% | Local de ProduÁ„o
+! width=10% | Local de Produ√ß√£o
 ! width=12% | Produtora
 ! width=25% | Financiamento e Festivais
 |-
-| 1996 || Homem sem terra - A volta de Jo„o Amorim || Francisco Cavalcanti || FicÁ„o || 35 mm || Lages || ||
+| 1996 || Homem sem terra - A volta de Jo√£o Amorim || Francisco Cavalcanti || Fic√ß√£o || 35 mm || Lages || ||
 |-
-| 1997 || Shuim, O Grande Drag„o Rosa || Cristiano Popov Zambias || FicÁ„o || 35 mm || ChapecÛ || ConspiraÁ„o Trash ProduÁıes ||
+| 1997 || Shuim, O Grande Drag√£o Rosa || Cristiano Popov Zambias || Fic√ß√£o || 35 mm || Chapec√≥ || Conspira√ß√£o Trash Produ√ß√µes ||
 |-
-| 1999 || Cruz e Sousa o poeta do Desterro || Sylvio Back || FicÁ„o || 35 mm || Blumenau || ||
+| 1999 || Cruz e Sousa o poeta do Desterro || Sylvio Back || Fic√ß√£o || 35 mm || Blumenau || ||
 |}
 
-=== Curta e MÈdia-metragens ===
+=== Curta e M√©dia-metragens ===
 
 {| class="wikitable" width= "100%"
 |-
 ! width=4% | Ano
 ! width=20% | Filme
 ! width=17% | Diretor
-! width=7% | GÍnero
+! width=7% | G√™nero
 ! width=5% | Formato
-! width=10% | Local de ProduÁ„o
+! width=10% | Local de Produ√ß√£o
 ! width=12% | Produtora
 ! width=25% | Financiamento e Festivais
 |-
-| 1990 || Manh„ || Zeca Pires e Norberto Despizzolatti || FicÁ„o || 35 mm || FlorianÛpolis || || Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique - SuiÁa
+| 1990 || Manh√£ || Zeca Pires e Norberto Despizzolatti || Fic√ß√£o || 35 mm || Florian√≥polis || || Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique - Sui√ßa
 Selecionado para o Festival do Nuevo Cine Latinoamericano de 1991, em Havana - Cuba
-14∫ GuarnicÍ de Cinema e Video, em S„o LuÌs (MA) - PrÍmio de Melhor Filme do Juri Popular
-Exibido no 18∫ Festival de Cinema Brasileira de Gramado
+14¬∫ Guarnic√™ de Cinema e Video, em S√£o Lu√≠s (MA) - Pr√™mio de Melhor Filme do Juri Popular
+Exibido no 18¬∫ Festival de Cinema Brasileira de Gramado
 |-
-| 1990 || O VÙo Solit·rio || Chico Faganello || Document·rio || 16 mm || FlorianÛpolis || || Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique ñ SuiÁa
-18™ Jornada Internacional de Cinema e VÌdeo da Bahia
-19∫ Festival de Cinema de Gramado
+| 1990 || O V√¥o Solit√°rio || Chico Faganello || Document√°rio || 16 mm || Florian√≥polis || || Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique ‚Äì Sui√ßa
+18¬™ Jornada Internacional de Cinema e V√≠deo da Bahia
+19¬∫ Festival de Cinema de Gramado
 |-
-| 1991 || A Revoada da Gralha || Lena Bastos e Cleide Albuquerque || || || FlorianÛpolis || || Exibido no 18™ Jornada Internacional da Cinema e Video da Bahia
+| 1991 || A Revoada da Gralha || Lena Bastos e Cleide Albuquerque || || || Florian√≥polis || || Exibido no 18¬™ Jornada Internacional da Cinema e Video da Bahia
 |-
-| 1992 || Desterro || Eduardo Paredes || FicÁ„o || 35 mm || FlorianÛpolis || Usina Press VÌdeo ProduÁıes Cinematogr·ficas Ltda. || Indicado a Melhor Fotografia (1992) Festival de Cinema Brasileiro de Gramado
+| 1992 || Desterro || Eduardo Paredes || Fic√ß√£o || 35 mm || Florian√≥polis || Usina Press V√≠deo Produ√ß√µes Cinematogr√°ficas Ltda. || Indicado a Melhor Fotografia (1992) Festival de Cinema Brasileiro de Gramado
 |-
-| 1992 || Farra do Boi || Zeca Pires e Norberto Depizzolatti || Document·rio || 16 mm || || || Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique - SuiÁa
+| 1992 || Farra do Boi || Zeca Pires e Norberto Depizzolatti || Document√°rio || 16 mm || || || Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique - Sui√ßa
 |-
-| 1992 || O Mau Selvagem || Mauro Faccioni FIlho || FicÁ„o || 16 mm || FlorianÛpolis || ||
+| 1992 || O Mau Selvagem || Mauro Faccioni FIlho || Fic√ß√£o || 16 mm || Florian√≥polis || ||
 |-
-| 1994 || Alva Paix„o: Cruz e Sousa final sÈc. XIX || Maria EmÌlia de Azevedo || FicÁ„o || 35 mm || FlorianÛpolis ||  || Selecionado para o 23∫ Festival de Cinema Brasileiro de Gramado
+| 1994 || Alva Paix√£o: Cruz e Sousa final s√©c. XIX || Maria Em√≠lia de Azevedo || Fic√ß√£o || 35 mm || Florian√≥polis ||  || Selecionado para o 23¬∫ Festival de Cinema Brasileiro de Gramado
 |-
-| 1995 || Naturezas Mortas || Penna Filho || Document·rio || 35 mm || FlorianÛpolis || MGS ComunicaÁ„o || Indicado ao PrÍmio de Melhor Filme pelo Juri Popular no 23∫ Festival de Cinema Brasileiro de Gramado
+| 1995 || Naturezas Mortas || Penna Filho || Document√°rio || 35 mm || Florian√≥polis || MGS Comunica√ß√£o || Indicado ao Pr√™mio de Melhor Filme pelo Juri Popular no 23¬∫ Festival de Cinema Brasileiro de Gramado
 |-
-| 1996 || Anga, O canal da lagoa || AndrÈ Bob Barbosa || Experimental || 16 mm || FlorianÛpolis || ||
+| 1996 || Anga, O canal da lagoa || Andr√© Bob Barbosa || Experimental || 16 mm || Florian√≥polis || ||
 |-
-| 1996 || Cartas Italianas || Chico Faganello || Document·rio || || FlorianÛpolis || ||
+| 1996 || Cartas Italianas || Chico Faganello || Document√°rio || || Florian√≥polis || ||
 |-
-| 1996 || Ponte HercÌlio Luiz: PatrimÙnioi da Humanidade || Zeca Pires || Document·rio || 35 mm || FlorianÛpolis || Mundo Imagin·rio ProduÁıes; Penna Filho ProduÁıes Cinematogr·ficas || Selecionado para o 24∫ Festival de Cinema Brasileiro de Gramado
+| 1996 || Ponte Herc√≠lio Luiz: Patrim√¥nioi da Humanidade || Zeca Pires || Document√°rio || 35 mm || Florian√≥polis || Mundo Imagin√°rio Produ√ß√µes; Penna Filho Produ√ß√µes Cinematogr√°ficas || Selecionado para o 24¬∫ Festival de Cinema Brasileiro de Gramado
 |-
-| 1996 || Ritinha || Antonio Celso dos Santos || FicÁ„o || 35 mm || FlorianÛpolis || Grua ProduÁıes Audiovisuais ||
+| 1996 || Ritinha || Antonio Celso dos Santos || Fic√ß√£o || 35 mm || Florian√≥polis || Grua Produ√ß√µes Audiovisuais ||
 |-
-| 1996 || Victor Meirelles: Quadros da HstÛria || Penna Filho || FicÁ„o || 35 mm || FlorianÛpolis || Adalberto Penna ProduÁıes Cinematogr·ficas || Selecionado para o 29∫ Festival de Brasilia do Cinema Brasileiro
-Selecionado para o 24∫ Festival de Cinema Brasileiro de Gramado
+| 1996 || Victor Meirelles: Quadros da Hst√≥ria || Penna Filho || Fic√ß√£o || 35 mm || Florian√≥polis || Adalberto Penna Produ√ß√µes Cinematogr√°ficas || Selecionado para o 29¬∫ Festival de Brasilia do Cinema Brasileiro
+Selecionado para o 24¬∫ Festival de Cinema Brasileiro de Gramado
 |-
-| 1997 || Arquitetura || Luiza Lins e Ligia Walper || Document·rio ||  || FlorianÛpolis ||  || 
+| 1997 || Arquitetura || Luiza Lins e Ligia Walper || Document√°rio ||  || Florian√≥polis ||  || 
 |-
-| 1998 || Bruxa Viva || Lena Bastos || FicÁ„o || 35 mm || FlorianÛpolis || ||
+| 1998 || Bruxa Viva || Lena Bastos || Fic√ß√£o || 35 mm || Florian√≥polis || ||
 |-
-| 1998 || Experimentando || AndrÈ Bob Barbosa || Document·rio || VÌdeo || FlorianÛpolis || || Vencedor do PrÍmio do Festival Internacional do Making Of 1999 ñ Categoria Universit·rio
+| 1998 || Experimentando || Andr√© Bob Barbosa || Document√°rio || V√≠deo || Florian√≥polis || || Vencedor do Pr√™mio do Festival Internacional do Making Of 1999 ‚Äì Categoria Universit√°rio
 |-
-| 1998 || Na Estrada da Vida || Alan Langdon e Guilherme Ledoux || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 1998 || Na Estrada da Vida || Alan Langdon e Guilherme Ledoux || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 1998 || Novembrada || Eduardo Paredes || FicÁ„o || 35 mm || FlorianÛpolis || Usyna Press VÌdeo ProduÁıes Cinematogr·ricas Ltda. || Indicado aos PrÍmios de Melhor DireÁ„o de Arte e Melhor Filme pelo Juri Popular do (1998) Festival de Cinema Brasileiro de Gramado.
+| 1998 || Novembrada || Eduardo Paredes || Fic√ß√£o || 35 mm || Florian√≥polis || Usyna Press V√≠deo Produ√ß√µes Cinematogr√°ricas Ltda. || Indicado aos Pr√™mios de Melhor Dire√ß√£o de Arte e Melhor Filme pelo Juri Popular do (1998) Festival de Cinema Brasileiro de Gramado.
 |-
-| 1998 || Seo Chico, Terra e Alma || JosÈ Rafael Mamigonian || Document·rio || 35 mm || FlorianÛpolis || ||
+| 1998 || Seo Chico, Terra e Alma || Jos√© Rafael Mamigonian || Document√°rio || 35 mm || Florian√≥polis || ||
 |-
-| 1998 || Tela || Francis Silvy, AndrÈ Bob Barbosa e Diego Singh || Experimental Video-Clip || 16 e 35 mm || FlorianÛpolis ||  ||
+| 1998 || Tela || Francis Silvy, Andr√© Bob Barbosa e Diego Singh || Experimental Video-Clip || 16 e 35 mm || Florian√≥polis ||  ||
 |-
-| 1999 || Fronteira || Chico Faganello || FicÁ„o || 35 mm || FlorianÛpolis || ||
+| 1999 || Fronteira || Chico Faganello || Fic√ß√£o || 35 mm || Florian√≥polis || ||
 |-
-| 1999 || Irm„os Canozzi - A histÛria que virou lenda || Fernando de Oliveira Le„o || FicÁ„o || || ItajaÌ || ||
+| 1999 || Irm√£os Canozzi - A hist√≥ria que virou lenda || Fernando de Oliveira Le√£o || Fic√ß√£o || || Itaja√≠ || ||
 |-
-| 1999 || Mulheres de Palavras || Katia Klock e MaurÌcio Venturi || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 1999 || Mulheres de Palavras || Katia Klock e Maur√≠cio Venturi || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2000 || Am·lgama || DireÁ„o coletiva || Experimental || 16 mm || FlorianÛpolis || ||
+| 2000 || Am√°lgama || Dire√ß√£o coletiva || Experimental || 16 mm || Florian√≥polis || ||
 |-
-| 2000 || Em Busca da Saleira Perdida || Equipe PintÙ Sujeira || FicÁ„o || VÌdeo || FlorianÛpolis || || Exibido no 4∫ FlorianÛpolis Audiovisual Mercosul
-Exibido no 2∫ CatavÌdeo
+| 2000 || Em Busca da Saleira Perdida || Equipe Pint√¥ Sujeira || Fic√ß√£o || V√≠deo || Florian√≥polis || || Exibido no 4¬∫ Florian√≥polis Audiovisual Mercosul
+Exibido no 2¬∫ Catav√≠deo
 |-
-| 2000 || FÈndÙ - Tributo a uma guerreira || Penna FIlho || Document·rio || VÌdeo || || || Melhor VÌdeo Educativo no I Festival da Terra, 2000, em BrasÌlia, promovido pela CONTAG, e MenÁ„o Honrosa no 7∫ CineEco (Serra da Estrela, Portugal)
+| 2000 || F√©nd√¥ - Tributo a uma guerreira || Penna FIlho || Document√°rio || V√≠deo || || || Melhor V√≠deo Educativo no I Festival da Terra, 2000, em Bras√≠lia, promovido pela CONTAG, e Men√ß√£o Honrosa no 7¬∫ CineEco (Serra da Estrela, Portugal)
 |-
-| 2000 || A Fuga || ConjuraÁ„o Trash ||  || VÌdeo || ChapecÛ || ||
+| 2000 || A Fuga || Conjura√ß√£o Trash ||  || V√≠deo || Chapec√≥ || ||
 |-
-| 2000 || Madre Paulina || Chico Faganello || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2000 || Madre Paulina || Chico Faganello || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2000 || Mergulhando em Bombinhas || Leandro Rangel || Document·rio || Super 8 || FlorianÛpolis || ||
+| 2000 || Mergulhando em Bombinhas || Leandro Rangel || Document√°rio || Super 8 || Florian√≥polis || ||
 |}
 
-== Cinema Contempor‚neo ==
+== Cinema Contempor√¢neo ==
 
 === Longa-metragens ===
 
@@ -282,870 +270,870 @@ Exibido no 2∫ CatavÌdeo
 ! width=4% | Ano
 ! width=20% | Filme
 ! width=17% | Diretor
-! width=7% | GÍnero
+! width=7% | G√™nero
 ! width=5% | Formato
-! width=10% | Local de ProduÁ„o
+! width=10% | Local de Produ√ß√£o
 ! width=12% | Produtora
 ! width=25% | Financiamento e Festivais
 |-
-| 2004 || Procuradas || Zeca Pires e JosÈ Fraz„o || FicÁ„o || 35 mm || FlorianÛpolis || Imagem Filmes, Mundo Imagin·rio ProduÁıes ||
+| 2004 || Procuradas || Zeca Pires e Jos√© Fraz√£o || Fic√ß√£o || 35 mm || Florian√≥polis || Imagem Filmes, Mundo Imagin√°rio Produ√ß√µes ||
 |-
-| 2006 || Seo Chico - Um Retrato || JosÈ Rafael Mamigonian || Document·rio || 35 mm || FlorianÛpolis ||  ||  Contemplado pelo PrÍmio Catarinense de Cinema FCC 2001
-PrÍmio de Melhor Fotografia - XV Cine Cear·
-PrÍmio especial do Juri ñ Forumdoc.bh 2005
+| 2006 || Seo Chico - Um Retrato || Jos√© Rafael Mamigonian || Document√°rio || 35 mm || Florian√≥polis ||  ||  Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2001
+Pr√™mio de Melhor Fotografia - XV Cine Cear√°
+Pr√™mio especial do Juri ‚Äì Forumdoc.bh 2005
 |-
-| 2006 || Outra MemÛria || Chico Faganello || FicÁ„o || VÌdeo || FlorianÛpolis; Blumenau ||  ||
+| 2006 || Outra Mem√≥ria || Chico Faganello || Fic√ß√£o || V√≠deo || Florian√≥polis; Blumenau ||  ||
 |-
-| 2006 || Um craque chamado Divino || Penna Filho || Document·rio || 35 mm || FlorianÛpolis ||  ||
+| 2006 || Um craque chamado Divino || Penna Filho || Document√°rio || 35 mm || Florian√≥polis ||  ||
 |-
-| 2007 || Luiz Henrique - No BalanÁo do Mar || Ieda Beck || Document·rio || || FlorianÛpolis || ||
+| 2007 || Luiz Henrique - No Balan√ßo do Mar || Ieda Beck || Document√°rio || || Florian√≥polis || ||
 |-
-| 2007 || Olhar de um Cineasta || CÈsar Cavalcanti || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Olhar de um Cineasta || C√©sar Cavalcanti || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || Sistema de AnimaÁ„o || Guilherme Ledoux e Alan Langdon || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || Sistema de Anima√ß√£o || Guilherme Ledoux e Alan Langdon || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || MaciÁo || Pedro MC || Document·rio || VÌdeo || FlorianÛpolis|| || Contemplado pelo PrÍmio Cinemateca Catarinense FCC 2005
+| 2009 || Maci√ßo || Pedro MC || Document√°rio || V√≠deo || Florian√≥polis|| || Contemplado pelo Pr√™mio Cinemateca Catarinense FCC 2005
 |}
 
-=== Curta e MÈdia-metragens ===
+=== Curta e M√©dia-metragens ===
 
 {| class="wikitable" width= "100%"
 |-
 ! width=4% | Ano
 ! width=20% | Filme
 ! width=17% | Diretor
-! width=7% | GÍnero
+! width=7% | G√™nero
 ! width=5% | Formato
-! width=10% | Local de ProduÁ„o
+! width=10% | Local de Produ√ß√£o
 ! width=12% | Produtora
 ! width=25% | Financiamento e Festivais
 |-
-| 2001 || Alma aÁoriana || Penna Filho || Document·rio || 16 mm || FlorianÛpolis || Penna Filho ProduÁıes ||
+| 2001 || Alma a√ßoriana || Penna Filho || Document√°rio || 16 mm || Florian√≥polis || Penna Filho Produ√ß√µes ||
 |-
-| 2001 || A CanÁ„o e o Chimarr„o || ConjuraÁ„o Trash || || || ChapecÛ || ||
+| 2001 || A Can√ß√£o e o Chimarr√£o || Conjura√ß√£o Trash || || || Chapec√≥ || ||
 |-
-| 2001 || Ilha || Zeca Pieres || FicÁ„o || 35 mm || FlorianÛpolis || ||
+| 2001 || Ilha || Zeca Pieres || Fic√ß√£o || 35 mm || Florian√≥polis || ||
 |-
-| 2001 || Isto nunca me aconteceu || Uriel Junior || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2001 || Isto nunca me aconteceu || Uriel Junior || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2001 || Morte no Caveiras || Fernando de Oliveira Le„o ||  || || ItajaÌ || ||
+| 2001 || Morte no Caveiras || Fernando de Oliveira Le√£o ||  || || Itaja√≠ || ||
 |-
-| 2001 || Pelas Barbas de Magrite || Lina Lavoratti e Paulo Maisatto || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2001 || Pelas Barbas de Magrite || Lina Lavoratti e Paulo Maisatto || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2001 || Roda dos Expostos || Maria EmÌlia de Azevedo || FicÁ„o || 35 mm || FlorianÛpolis ||  || PrÍmio de Melhor Fotografia em Curta-Metragem 35 mm no 29∫ Festival de Cinema Brasileiro de Gramado
+| 2001 || Roda dos Expostos || Maria Em√≠lia de Azevedo || Fic√ß√£o || 35 mm || Florian√≥polis ||  || Pr√™mio de Melhor Fotografia em Curta-Metragem 35 mm no 29¬∫ Festival de Cinema Brasileiro de Gramado
 |-
-| 2001 || Vlad Party || Equipe PintÙ SujÍra || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2001 || Vlad Party || Equipe Pint√¥ Suj√™ra || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2002 || Alumbramentos || Laine Milan || FicÁ„o || 35 mm || FlorianÛpolis || TVi Televis„o e Cinema ||
+| 2002 || Alumbramentos || Laine Milan || Fic√ß√£o || 35 mm || Florian√≥polis || TVi Televis√£o e Cinema ||
 |-
-| 2002 || Arqueologia: Um olhar no passado || Daniela Ara˙jo || Document·rio || VÌdeo || FlorianÛpolis || || Exibido no 7∫ FlorianÛpolis Audiovisual Mercosul (FAM)
+| 2002 || Arqueologia: Um olhar no passado || Daniela Ara√∫jo || Document√°rio || V√≠deo || Florian√≥polis || || Exibido no 7¬∫ Florian√≥polis Audiovisual Mercosul (FAM)
 |-
-| 2002 || A CalÁada || Irene Baldacin e Marcelo Esteves || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2002 || A Cal√ßada || Irene Baldacin e Marcelo Esteves || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2002 || CÛlera || CÈsar Maximiliano || FicÁ„o || VÌdeo || S„o JosÈ || || Exibido no 7∫ FlorianÛpolis Audiovisual Mercosul
+| 2002 || C√≥lera || C√©sar Maximiliano || Fic√ß√£o || V√≠deo || S√£o Jos√© || || Exibido no 7¬∫ Florian√≥polis Audiovisual Mercosul
 |-
-| 2002 || A Coroa || Maria EmÌlia de Azevedo || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2002 || A Coroa || Maria Em√≠lia de Azevedo || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2002 || O Corredor || Jano Moskorz, Loli Menezes || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2002 || O Corredor || Jano Moskorz, Loli Menezes || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2002 ||  xodo || Yannet Briggiler || AnimaÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2002 || √äxodo || Yannet Briggiler || Anima√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2002 || Felaccio || Marcos Martins || FicÁ„o || 16 mm  || FlorianÛpolis || Unisul ||
+| 2002 || Felaccio || Marcos Martins || Fic√ß√£o || 16 mm  || Florian√≥polis || Unisul ||
 |-
-| 2002 || O Filme que ninguÈm viu || Marco Stroisch || Document·rio || VÌdeo || FlorianÛpolis || || Contemplado pelo PrÍmio Cinemateca Catarinense FCC
+| 2002 || O Filme que ningu√©m viu || Marco Stroisch || Document√°rio || V√≠deo || Florian√≥polis || || Contemplado pelo Pr√™mio Cinemateca Catarinense FCC
 |-
-| 2002 || Jurandir Manoel da SIlva - Na Epiderme das Sombras || RIcardo Weshenfelder  || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2002 || Jurandir Manoel da SIlva - Na Epiderme das Sombras || RIcardo Weshenfelder  || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2002 || LapÌdeo || Paulo Calasans e Emanuela Vieira || FicÁ„o || VÌdeo || FlorianÛpolis || || Exibido no FlorianÛpolis Audiovisual Mercosul 2003
+| 2002 || Lap√≠deo || Paulo Calasans e Emanuela Vieira || Fic√ß√£o || V√≠deo || Florian√≥polis || || Exibido no Florian√≥polis Audiovisual Mercosul 2003
 |-
-| 2002 || LiÁıes QuÌmicas || Vander Colombo; Rodrigo Amboni || FicÁ„o || Video || FlorianÛpolis || Unisul || Exibido no CatavÌdeo
+| 2002 || Li√ß√µes Qu√≠micas || Vander Colombo; Rodrigo Amboni || Fic√ß√£o || Video || Florian√≥polis || Unisul || Exibido no Catav√≠deo
 |-
-| 2002 || Miramar, um olhar par ao mundo || Marco Martins e Ricardo Weschenfelder || Document·rio || VÌdeo || FlorianÛpolis || || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2001
+| 2002 || Miramar, um olhar par ao mundo || Marco Martins e Ricardo Weschenfelder || Document√°rio || V√≠deo || Florian√≥polis || || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2001
 |-
-| 2002 || Perto do Mar || Zeca Pires || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2002 || Perto do Mar || Zeca Pires || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2002 || Saudades da Vila || T‚nia Lamarca || FicÁ„o || VÌdeo || FlorianÛpolis ||  || Exibido no FlorianÛpolis Audiovisual Mercosul 2003
+| 2002 || Saudades da Vila || T√¢nia Lamarca || Fic√ß√£o || V√≠deo || Florian√≥polis ||  || Exibido no Florian√≥polis Audiovisual Mercosul 2003
 |-
-| 2003 || Boule de Suif || Suzana Luz Cardoso || FicÁ„o || VÌdeo || FlorianÛpolis || || Exibido no 7∫ FlorianÛpolis Audiovisual Mercosul
+| 2003 || Boule de Suif || Suzana Luz Cardoso || Fic√ß√£o || V√≠deo || Florian√≥polis || || Exibido no 7¬∫ Florian√≥polis Audiovisual Mercosul
 |-
-| 2003 || A Coreografia Pl·stica do Esmalte || M·rcio Martins  || Document·rio || Super 8 || FlorianÛpolis || ||
+| 2003 || A Coreografia Pl√°stica do Esmalte || M√°rcio Martins  || Document√°rio || Super 8 || Florian√≥polis || ||
 |-
-| 2003 || As diversas mortes de AdÈlia || Chico Capr·rio || FicÁ„o || VÌdeo || FlorianÛpolis || TVi -televis„o +cinema ||
+| 2003 || As diversas mortes de Ad√©lia || Chico Capr√°rio || Fic√ß√£o || V√≠deo || Florian√≥polis || TVi -televis√£o +cinema ||
 |-
-| 2003 || Ilus„o || Fl·via Zanchetta || FicÁ„o || 16 mm || FlorianÛpolis || ||
+| 2003 || Ilus√£o || Fl√°via Zanchetta || Fic√ß√£o || 16 mm || Florian√≥polis || ||
 |-
-| 2003 || Isadora || Elisa Dam·zio || FicÁ„o || 16 mm || || || Unisul - Universidade do Sul de Santa Catarina
+| 2003 || Isadora || Elisa Dam√°zio || Fic√ß√£o || 16 mm || || || Unisul - Universidade do Sul de Santa Catarina
 |-
-| 2003 || Líamar || Saldra Alves || FicÁ„o || 35 mm || FlorianÛpolis || Vagaluzes ProduÁıes ArtÌsticas || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2001
+| 2003 || L‚Äôamar || Saldra Alves || Fic√ß√£o || 35 mm || Florian√≥polis || Vagaluzes Produ√ß√µes Art√≠sticas || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2001
 |-
-| 2003 || M· & Sinh· || Alessandro Assis Maha || AnimaÁ„o || VÌdeo || Blumenau || ||
+| 2003 || M√° & Sinh√° || Alessandro Assis Maha || Anima√ß√£o || V√≠deo || Blumenau || ||
 |-
-| 2003 || Milk Me || Marco Martins || FicÁ„o || VÌdeo || FlorianÛpolis || || Exibido no FlorianÛpolis Audiovisual Mercosul 2003
+| 2003 || Milk Me || Marco Martins || Fic√ß√£o || V√≠deo || Florian√≥polis || || Exibido no Florian√≥polis Audiovisual Mercosul 2003
 |-
-| 2003 || Nosferatum || Gurcius Gewdner || Experimental || VÌdeo || Palmitos ||  ||
+| 2003 || Nosferatum || Gurcius Gewdner || Experimental || V√≠deo || Palmitos ||  ||
 |-
-| 2003 || Sorria vocÍ est· sendo filmado || Chico Capr·rio || FicÁ„o || 35 mm || FlorianÛpolis ||  ||
+| 2003 || Sorria voc√™ est√° sendo filmado || Chico Capr√°rio || Fic√ß√£o || 35 mm || Florian√≥polis ||  ||
 |-
-| 2003 || Um amor t„o leve || Laine Milan || FicÁ„o ||  || FlorianÛpolis ||  ||
+| 2003 || Um amor t√£o leve || Laine Milan || Fic√ß√£o ||  || Florian√≥polis ||  ||
 |-
-| 2004 || Animus || Alan Langdon || FicÁ„o || VÌdeo || || ||
+| 2004 || Animus || Alan Langdon || Fic√ß√£o || V√≠deo || || ||
 |-
-| 2004 || Felicidade || Emerson Schmidlin || FicÁ„o || 16 mm || FlorianÛpolis || Industry Produtores Associados ||
+| 2004 || Felicidade || Emerson Schmidlin || Fic√ß√£o || 16 mm || Florian√≥polis || Industry Produtores Associados ||
 |-
-| 2004 || Jesus || Ricardo Weschenfelder || FicÁ„o || 16 mm || FlorianÛpolis || ||
+| 2004 || Jesus || Ricardo Weschenfelder || Fic√ß√£o || 16 mm || Florian√≥polis || ||
 |-
-| 2004 || MemÛriaemoÁ„o || Sandra Alves || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2004 || Mem√≥riaemo√ß√£o || Sandra Alves || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2004 || Modernos do Sul || Katia Klock || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2004 || Modernos do Sul || Katia Klock || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2004 || Nem o CÈu, Nem a Terra || Isabela Hoffmann Dummer || FicÁ„o || 35 mm || FlorianÛpolis || ||
+| 2004 || Nem o C√©u, Nem a Terra || Isabela Hoffmann Dummer || Fic√ß√£o || 35 mm || Florian√≥polis || ||
 |-
-| 2004 || Pay TumÈ || Beto e Lallo Valverde Bocchino || Document·rio || VÌdeo || ItajaÌ ||  ||
+| 2004 || Pay Tum√© || Beto e Lallo Valverde Bocchino || Document√°rio || V√≠deo || Itaja√≠ ||  ||
 |-
-| 2004 || Peur et Abandon || Vander Colombo || FicÁ„o || VÌdeo || FlorianÛpolis || Unisul || Exibido no CatavÌdeo
+| 2004 || Peur et Abandon || Vander Colombo || Fic√ß√£o || V√≠deo || Florian√≥polis || Unisul || Exibido no Catav√≠deo
 |-
-| 2004 || Procuradas || Zeca Pires e JosÈ Fraz„o || FicÁ„o || 35 mm || FlorianÛpolis || Imagem Filmes, Mundo Imagin·rio ProduÁıes ||
+| 2004 || Procuradas || Zeca Pires e Jos√© Fraz√£o || Fic√ß√£o || 35 mm || Florian√≥polis || Imagem Filmes, Mundo Imagin√°rio Produ√ß√µes ||
 |-
-| 2004 || PROVID NCIA: Como Fazer um Comercial de CachaÁa || Equipe PintÙ SujÍja || Experimental  || VÌdeo || FlorianÛpolis ||  || Exibido no 6∫ CatavÌdeo
+| 2004 || PROVID√äNCIA: Como Fazer um Comercial de Cacha√ßa || Equipe Pint√¥ Suj√™ja || Experimental  || V√≠deo || Florian√≥polis ||  || Exibido no 6¬∫ Catav√≠deo
 |-
-| 2004 || Road Movie || Cl·udia C·rdenas e Rafael Schlichting || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2004 || Road Movie || Cl√°udia C√°rdenas e Rafael Schlichting || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2004 || O Santo M·gico || Ronaldo dos Anjos || FicÁ„o || 35 mm || FlorianÛpolis ||  ||
+| 2004 || O Santo M√°gico || Ronaldo dos Anjos || Fic√ß√£o || 35 mm || Florian√≥polis ||  ||
 |-
-| 2004 || Temporal || Loli Menezes, Marco Martins || Document·rio || VÌdeo || FlorianÛpolis || Vinil Filmes ||
+| 2004 || Temporal || Loli Menezes, Marco Martins || Document√°rio || V√≠deo || Florian√≥polis || Vinil Filmes ||
 |-
-| 2004 || Veludo & Cacos-de-Vidro || Marco Martins || FicÁ„o || 35 mm ||  ||  || Selecionado pelo Festival Brasileira de Cinema Universit·rio da Universidade Federal Fluminense
+| 2004 || Veludo & Cacos-de-Vidro || Marco Martins || Fic√ß√£o || 35 mm ||  ||  || Selecionado pelo Festival Brasileira de Cinema Universit√°rio da Universidade Federal Fluminense
 |-
-| 2005 || Alto Uruguai || Chico Faganello || Document·rio || || FlorianÛpolis || ||
+| 2005 || Alto Uruguai || Chico Faganello || Document√°rio || || Florian√≥polis || ||
 |-
-| 2005 || Animato || DireÁ„o coletiva || AnimaÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2005 || Animato || Dire√ß√£o coletiva || Anima√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2005 || Bruxas atacam pescador || …rico PatrÌcio Monteiro || AnimaÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2005 || Bruxas atacam pescador || √ârico Patr√≠cio Monteiro || Anima√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2005 || O Capit„o Imagin·rio || Chico Faganello || Document·rio || 35 mm || FlorianÛpolis || ||
+| 2005 || O Capit√£o Imagin√°rio || Chico Faganello || Document√°rio || 35 mm || Florian√≥polis || ||
 |-
-| 2005 || Curta Ilha || Rafael Favaretto Schlichting || FicÁ„o || VÌdeo || FlorianÛpolis || C‚mera Olho Filmes e ProduÁıes ||
+| 2005 || Curta Ilha || Rafael Favaretto Schlichting || Fic√ß√£o || V√≠deo || Florian√≥polis || C√¢mera Olho Filmes e Produ√ß√µes ||
 |-
-| 2005 || Do Abismo os Horrores || Marco Martins || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2005 || Do Abismo os Horrores || Marco Martins || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2005 || O Espelho || Flavia de Mello Zancheta || Document·rio || VÌdeo || FlorianÛpolis || || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2002
+| 2005 || O Espelho || Flavia de Mello Zancheta || Document√°rio || V√≠deo || Florian√≥polis || || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2002
 |-
-| 2005 || O Fim do Mundo - Flashback Society || Alan Langdon e Guilherme Ledoux || FicÁ„o || VÌdeo || FlorianÛpolis || || Exibido no 7∫ Catavideo
-Exibido no FlorianÛpolis Audiovisual Mercosul 2006
+| 2005 || O Fim do Mundo - Flashback Society || Alan Langdon e Guilherme Ledoux || Fic√ß√£o || V√≠deo || Florian√≥polis || || Exibido no 7¬∫ Catavideo
+Exibido no Florian√≥polis Audiovisual Mercosul 2006
 |-
-| 2005 || Final Feliz || Thiago Machado || FicÁ„o || VÌdeo || FlorianÛpolis || || Exibido no FlorianÛpolis Audiovisual Mercosul 2005
+| 2005 || Final Feliz || Thiago Machado || Fic√ß√£o || V√≠deo || Florian√≥polis || || Exibido no Florian√≥polis Audiovisual Mercosul 2005
 |-
-| 2005 || Flor de Pessegueiro || Angela Bastos || Document·rio || VÌdeo || FlorianÛpolis || || Contemplado pelo Edital Armando Carreir„o (FUNCINE)
+| 2005 || Flor de Pessegueiro || Angela Bastos || Document√°rio || V√≠deo || Florian√≥polis || || Contemplado pelo Edital Armando Carreir√£o (FUNCINE)
 |-
-| 2005 || Hassis - um autoretrato imaginado - uma autobiografia inventada || Marco Martins e Ricardo Weschenfelder || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2005 || Hassis - um autoretrato imaginado - uma autobiografia inventada || Marco Martins e Ricardo Weschenfelder || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2005 || A Lenda do Brilho da Lua || Gabriela Dreher || AnimaÁ„o || || FlorianÛpolis || ||
+| 2005 || A Lenda do Brilho da Lua || Gabriela Dreher || Anima√ß√£o || || Florian√≥polis || ||
 |-
-| 2005 || A Lenda da Serpente do Tanque || DireÁ„o Coletiva || Document·rio || VÌdeo || Lages || ||
+| 2005 || A Lenda da Serpente do Tanque || Dire√ß√£o Coletiva || Document√°rio || V√≠deo || Lages || ||
 |-
-| 2005 || Masturbazzione || Marco Martins || Experimental || VÌdeo || FlorianÛpolis || Vinil Filmes ||
+| 2005 || Masturbazzione || Marco Martins || Experimental || V√≠deo || Florian√≥polis || Vinil Filmes ||
 |-
-| 2005 || Na Batucada dos Bambas || Graziela Storto || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2005 || Na Batucada dos Bambas || Graziela Storto || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2005 || Olhos de CrianÁa || Jefferson Bittencourt || Experimental || VÌdeo || FlorianÛpolis ||  ||
+| 2005 || Olhos de Crian√ßa || Jefferson Bittencourt || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2005 || Paisagem Urbana, um olhar sobre a ilha || Pedro MC || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2005 || Paisagem Urbana, um olhar sobre a ilha || Pedro MC || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2005 || Passagem || Ariel Schvartzman, Cleuza Maria, FabÌola Beck, Filipe Figueiredo, MaurÌcio Marques, Oscar R. Junior, Saulo Velasco, Thais Reis, Yanina Peralta || Experimental || VÌdeo || ||  ||
+| 2005 || Passagem || Ariel Schvartzman, Cleuza Maria, Fab√≠ola Beck, Filipe Figueiredo, Maur√≠cio Marques, Oscar R. Junior, Saulo Velasco, Thais Reis, Yanina Peralta || Experimental || V√≠deo || ||  ||
 |-
-| 2005 || Paulo Companheiro Jo„o || Iur Gomes || Document·rio || VÌdeo || FlorianÛpolis ||  || Contemplado pelo DOC TV 2005
+| 2005 || Paulo Companheiro Jo√£o || Iur Gomes || Document√°rio || V√≠deo || Florian√≥polis ||  || Contemplado pelo DOC TV 2005
 |-
-| 2005 || PeÁa por peÁa se constrÛi um amigo || Giuliano Benedet || AnimaÁ„o || VÌdeo || FlorianÛpolis ||  || Exibido no FlorianÛpolis Audiovisual Mercosul 2006
+| 2005 || Pe√ßa por pe√ßa se constr√≥i um amigo || Giuliano Benedet || Anima√ß√£o || V√≠deo || Florian√≥polis ||  || Exibido no Florian√≥polis Audiovisual Mercosul 2006
 |-
-| 2005 || Peixe Frito || Ricardo de Podest· || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2005 || Peixe Frito || Ricardo de Podest√° || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2005 || O PetrÛleo È Nosso || Uriel Pereira || FicÁ„o || 16 mm || FlorianÛpolis || Exato Segundo ProduÁıes ||
+| 2005 || O Petr√≥leo √© Nosso || Uriel Pereira || Fic√ß√£o || 16 mm || Florian√≥polis || Exato Segundo Produ√ß√µes ||
 |-
-| 2005 || Por causa do Papai Noel || Mara Salla || FicÁ„o || 35 mm || FlorianÛpolis ||  ||
+| 2005 || Por causa do Papai Noel || Mara Salla || Fic√ß√£o || 35 mm || Florian√≥polis ||  ||
 |-
-| 2005 || Religare || Alexandre Linck || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2005 || Religare || Alexandre Linck || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2005 || Retalhos da MemÛria || Thais Reis e Bernardo Garcia || FicÁ„o || VÌdeo || FlorianÛpolis ||  || Exibido no FlorianÛpolis Audiovisual Mercosul 2006
+| 2005 || Retalhos da Mem√≥ria || Thais Reis e Bernardo Garcia || Fic√ß√£o || V√≠deo || Florian√≥polis ||  || Exibido no Florian√≥polis Audiovisual Mercosul 2006
 |-
-| 2005 || O Senhor e a Senhora Martins || Laine Milan || FicÁao || 35 mm || FlorianÛpolis || Tvi-televis„o=cinema || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2002
+| 2005 || O Senhor e a Senhora Martins || Laine Milan || Fic√ßao || 35 mm || Florian√≥polis || Tvi-televis√£o=cinema || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2002
 |-
-| 2005 || Serra Catarinense || Chico Faganello || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2005 || Serra Catarinense || Chico Faganello || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2005 || Tubarıes Voadores ||   ngelo Clemente || Experimental || 35 mm || FlorianÛpolis || ACS ProduÁıes ||
+| 2005 || Tubar√µes Voadores ||   ngelo Clemente || Experimental || 35 mm || Florian√≥polis || ACS Produ√ß√µes ||
 |-
-| 2005 || Um Tiro na Asa || Maria Emilia de Azevedo || FicÁ„o || 35 mm || FlorianÛpolis || Mundo Imagin·rio ||
+| 2005 || Um Tiro na Asa || Maria Emilia de Azevedo || Fic√ß√£o || 35 mm || Florian√≥polis || Mundo Imagin√°rio ||
 |-
-| 2005 || Verdades e ruÌnas em um ato || Vander Colombo || FicÁ„o || VÌdeo || ||  ||
+| 2005 || Verdades e ru√≠nas em um ato || Vander Colombo || Fic√ß√£o || V√≠deo || ||  ||
 |-
-| 2006 || Aflora || MaÌra CorrÍa Machado || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2006 || Aflora || Ma√≠ra Corr√™a Machado || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || AlÈm do Samba - A resistÍncia afro-brasileira || CÈsar Cavalcanti || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2006 || Al√©m do Samba - A resist√™ncia afro-brasileira || C√©sar Cavalcanti || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || Alerta Invasores || Alexandre Garcia || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2006 || Alerta Invasores || Alexandre Garcia || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || Aproveitem o mar || Cristian Abes || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2006 || Aproveitem o mar || Cristian Abes || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || ¡rvore Solit·ria || LetÌcia Friedrich || FicÁ„o || 16 mm || FlorianÛpolis || || Exibido no 9∫ CatavÌdeo
+| 2006 || √Årvore Solit√°ria || Let√≠cia Friedrich || Fic√ß√£o || 16 mm || Florian√≥polis || || Exibido no 9¬∫ Catav√≠deo
 |-
-| 2006 || Audiovisual: O PreÁo da Ilus„o || Nayana Brasil || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2006 || Audiovisual: O Pre√ßo da Ilus√£o || Nayana Brasil || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || Borboleta || Cameni Silveira || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2006 || Borboleta || Cameni Silveira || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || ChapÈu - Um filme de chapeuzinhos || Marilia Gervasi Olska || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2006 || Chap√©u - Um filme de chapeuzinhos || Marilia Gervasi Olska || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || A Cigarra e a Formiga || Monica Marcon e Suzana Marcon || AnimaÁ„o || VÌdeo || FlorianÛpolis || || Exibido no 10∫ FlorianÛpolis Audiovisual Mercosul (FAM)
+| 2006 || A Cigarra e a Formiga || Monica Marcon e Suzana Marcon || Anima√ß√£o || V√≠deo || Florian√≥polis || || Exibido no 10¬∫ Florian√≥polis Audiovisual Mercosul (FAM)
 |-
-| 2006 || Comunicado || Breno Furtado || || VÌdeo || || ||
+| 2006 || Comunicado || Breno Furtado || || V√≠deo || || ||
 |-
-| 2006 || Contato de Norteville || Uriel Pereira || FicÁ„o ||  || FlorianÛpoli|| ||
+| 2006 || Contato de Norteville || Uriel Pereira || Fic√ß√£o ||  || Florian√≥poli|| ||
 |-
-| 2006 || Dyckias, Tempos de ExtinÁ„o || Jonas Edson Pinto e Iur Gomes || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2006 || Dyckias, Tempos de Extin√ß√£o || Jonas Edson Pinto e Iur Gomes || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || Em Nossas Vidas || Regina Fenilli || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2006 || Em Nossas Vidas || Regina Fenilli || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || Entre os Dias || Fernanda Scneider || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2006 || Entre os Dias || Fernanda Scneider || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || Fantasmas || Rodrigo Amboni || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2006 || Fantasmas || Rodrigo Amboni || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || Isto n„o È um filme || Loli Menezes || FicÁ„o || VÌdeo || FlorianÛpolis || Vinil Filmes ||
+| 2006 || Isto n√£o √© um filme || Loli Menezes || Fic√ß√£o || V√≠deo || Florian√≥polis || Vinil Filmes ||
 |-
-| 2006 || Leonor Guedes - MemÛrias Em ”rbita || FabÌola Beck ||  || VÌdeo || || ||
+| 2006 || Leonor Guedes - Mem√≥rias Em √ìrbita || Fab√≠ola Beck ||  || V√≠deo || || ||
 |-
-| 2006 || Mariscos e Miolos || Renan Blah || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2006 || Mariscos e Miolos || Renan Blah || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || Met·foras da Viv„o || Samuel Imparato || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2006 || Met√°foras da Viv√£o || Samuel Imparato || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2006 || Noturna || Felipe Vernizzi || FicÁ„o || 16 mm || FlorianÛpolis ||  ||
+| 2006 || Noturna || Felipe Vernizzi || Fic√ß√£o || 16 mm || Florian√≥polis ||  ||
 |-
-| 2006 || Olho fixo vendo o tempo (de cada coisa) || Felipe Brandalise || Experimental || VÌdeo || FlorianÛpolis ||  ||
+| 2006 || Olho fixo vendo o tempo (de cada coisa) || Felipe Brandalise || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2006 || Por tr·s de Reagan II || Angela Faoro e William Martins || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2006 || Por tr√°s de Reagan II || Angela Faoro e William Martins || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2006 || Pesca da Tainha || Ademir Damasco || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2006 || Pesca da Tainha || Ademir Damasco || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2006 || Quem casa quer casa || Adriana Nieves || FicÁ„o ìChanchadaî || VÌdeo || FlorianÛpolis ||  ||
+| 2006 || Quem casa quer casa || Adriana Nieves || Fic√ß√£o ‚ÄúChanchada‚Äù || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2006 || RaÌzes aÁorianas || Carolina Coral || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2006 || Ra√≠zes a√ßorianas || Carolina Coral || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2006 || O retrato de Doriana extra cremosa com sal || Alan Langdon || Experimental || VÌdeo ||  ||  ||
+| 2006 || O retrato de Doriana extra cremosa com sal || Alan Langdon || Experimental || V√≠deo ||  ||  ||
 |-
-| 2006 || Se fosse assim era pra ser || Betina Humeres || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2006 || Se fosse assim era pra ser || Betina Humeres || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2006 || Seo Chico - Um Retrato || JOsÈ Rafael Mamigonian || Document·rio || 35 mm || FlorianÛpolis ||  ||  Contemplado pelo PrÍmio Catarinense de Cinema FCC 2001
-PrÍmio de Melhor Fotografia - XV Cine Cear·
-PrÍmio especial do Juri ñ Forumdoc.bh 2005
+| 2006 || Seo Chico - Um Retrato || JOs√© Rafael Mamigonian || Document√°rio || 35 mm || Florian√≥polis ||  ||  Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2001
+Pr√™mio de Melhor Fotografia - XV Cine Cear√°
+Pr√™mio especial do Juri ‚Äì Forumdoc.bh 2005
 |-
-| 2006 || Sinestesia || Paulo Maisatto || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2006 || Sinestesia || Paulo Maisatto || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2006 || Stormental European Tour 2006 || Alexei Le„o, Andrei Le„o, Marcos Feminella, Rafael Scopel || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2006 || Stormental European Tour 2006 || Alexei Le√£o, Andrei Le√£o, Marcos Feminella, Rafael Scopel || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2006 || Tresperimento || Adriana Cunha, Diogo Vaz Franco e Maria Carolina Vieira || Experimental || VÌdeo || FlorianÛpolis ||  ||
+| 2006 || Tresperimento || Adriana Cunha, Diogo Vaz Franco e Maria Carolina Vieira || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2006 || Um craque chamado Divino || Penna Filho || Document·rio || 35 mm || FlorianÛpolis ||  ||
+| 2006 || Um craque chamado Divino || Penna Filho || Document√°rio || 35 mm || Florian√≥polis ||  ||
 |-
-| 2006 || O Velho da Bengala || Yannet Brigiller, Rodrigo Amboni || AnimaÁ„o|| VÌdeo || FlorianÛpolis ||  ||
+| 2006 || O Velho da Bengala || Yannet Brigiller, Rodrigo Amboni || Anima√ß√£o|| V√≠deo || Florian√≥polis ||  ||
 |-
-| 2006 || Vou-me embora protestando || Carolina Coral e Mariana Costa Lima || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2006 || Vou-me embora protestando || Carolina Coral e Mariana Costa Lima || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || 2008 || Fernando s· de Souza || Experimental || VÌdeo || FlorianÛpolis || || Exibido no 9∫ CatavÌdeo
+| 2007 || 2008 || Fernando s√° de Souza || Experimental || V√≠deo || Florian√≥polis || || Exibido no 9¬∫ Catav√≠deo
 |-
-| 2007 || ¿ luz de Schwanke || Ivaldo Brasil Jr. e MaurÌcio Venturi || Document·rio || VÌdeo || FlorianÛpolis || || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2007
+| 2007 || √Ä luz de Schwanke || Ivaldo Brasil Jr. e Maur√≠cio Venturi || Document√°rio || V√≠deo || Florian√≥polis || || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2007
 |-
-| 2007 || AlÈm do Mar || Carolina Vieira Poletto || FicÁ„o || VÌdeo || FlorianÛpolis || || Exibido no 9∫ CatavÌdeo
+| 2007 || Al√©m do Mar || Carolina Vieira Poletto || Fic√ß√£o || V√≠deo || Florian√≥polis || || Exibido no 9¬∫ Catav√≠deo
 |-
-| 2007 || Algo a ver com a morte || Danilo De villa Anast·cio || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2007 || Algo a ver com a morte || Danilo De villa Anast√°cio || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || Anseio || Ana Catarina Neves || Experimental || VÌdeo || FlorianÛpolis || || Exibido no 9∫ CatavÌdeo
+| 2007 || Anseio || Ana Catarina Neves || Experimental || V√≠deo || Florian√≥polis || || Exibido no 9¬∫ Catav√≠deo
 |-
-| 2007 || Armadilha para apanhar bruxa || Everson Martins || Experimental || VÌdeo || FlorianÛpolis || || Exibido no 9∫ CatavÌdeo
+| 2007 || Armadilha para apanhar bruxa || Everson Martins || Experimental || V√≠deo || Florian√≥polis || || Exibido no 9¬∫ Catav√≠deo
 |-
-| 2007 || Arte de Rua || Denis Franco Goedert || Document·rio || VÌdeo || Balne·rio Camburi˙ || || Exibido no 9∫ CatavÌdeo
+| 2007 || Arte de Rua || Denis Franco Goedert || Document√°rio || V√≠deo || Balne√°rio Camburi√∫ || || Exibido no 9¬∫ Catav√≠deo
 |-
-| 2007 || Backstage || VÌtor B˙rigo || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2007 || Backstage || V√≠tor B√∫rigo || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || B˙zios de Aqu·rio || Silvana Mariani || Document·rio || VÌdeo || FlorianÛpolis || || Exibido no 9∫ CatavÌdeo
+| 2007 || B√∫zios de Aqu√°rio || Silvana Mariani || Document√°rio || V√≠deo || Florian√≥polis || || Exibido no 9¬∫ Catav√≠deo
 |-
-| 2007 || A Caminho || FicÁ„o || VÌdeo || FlorianÛpolis || || ||
+| 2007 || A Caminho || Fic√ß√£o || V√≠deo || Florian√≥polis || || ||
 |-
-| 2007 || O Caminho da Vida || Rodrigo Dutra || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2007 || O Caminho da Vida || Rodrigo Dutra || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || A CanÁ„o do Cigano || Luiz Felipe Sprotte Costa || Document·rio || VÌdeo || PalhoÁa || || Exibido no 9∫ CatavÌdeo
+| 2007 || A Can√ß√£o do Cigano || Luiz Felipe Sprotte Costa || Document√°rio || V√≠deo || Palho√ßa || || Exibido no 9¬∫ Catav√≠deo
 |-
-| 2007 || Cleide - The Closet Lover || Renan Blah e Carla Italiano || FicÁ„o || VÌdeo || || ||
+| 2007 || Cleide - The Closet Lover || Renan Blah e Carla Italiano || Fic√ß√£o || V√≠deo || || ||
 |-
-| 2007 || Corra Santiago || ConjuraÁ„o Trash || FicÁ„o || VÌdeo || ChapecÛ || ||
+| 2007 || Corra Santiago || Conjura√ß√£o Trash || Fic√ß√£o || V√≠deo || Chapec√≥ || ||
 |-
-| 2007 || DelÌrios e Cigarros || Rhaissa Pinto; Taynah MIrandae; Thais Aguiar || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2007 || Del√≠rios e Cigarros || Rhaissa Pinto; Taynah MIrandae; Thais Aguiar || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || Desejos || Alessandra CollaÁo da Silva || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2007 || Desejos || Alessandra Colla√ßo da Silva || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || El Passaporte || Fernando S· de Souza || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2007 || El Passaporte || Fernando S√° de Souza || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || Elektra || Carla Italiano e Nina Kopko || FicÁ„o || VÌdeo || FlorianÛpolis || || 
+| 2007 || Elektra || Carla Italiano e Nina Kopko || Fic√ß√£o || V√≠deo || Florian√≥polis || || 
 |-
-| 2007 || Escuta-me || Tcharles Barbose || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2007 || Escuta-me || Tcharles Barbose || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || Eu Soldadinho, ela Bailarina || Adriana Gama || FIcÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2007 || Eu Soldadinho, ela Bailarina || Adriana Gama || FIc√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || Guerra de Sombras || Fernando Le„o || FicÁ„o || VÌdeo || Lages || ||
+| 2007 || Guerra de Sombras || Fernando Le√£o || Fic√ß√£o || V√≠deo || Lages || ||
 |-
-| 2007 || HistÛria || Marcelo GonÁalves Cunha || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2007 || Hist√≥ria || Marcelo Gon√ßalves Cunha || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || ImperceptÌvel || Everson Martins || || VÌdeo || FlorianÛpolis || ||
+| 2007 || Impercept√≠vel || Everson Martins || || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || As IncrÌveis Aventuras de Asdr˙bal na Grecia Antiga || Giovana N. C. Pereira || AnimaÁ„o || || FlorianÛpolis || ||
+| 2007 || As Incr√≠veis Aventuras de Asdr√∫bal na Grecia Antiga || Giovana N. C. Pereira || Anima√ß√£o || || Florian√≥polis || ||
 |-
-| 2007 || O Joaquim || M·rcia ParaÌso || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2007 || O Joaquim || M√°rcia Para√≠so || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || O Lado de K ||  || || FlorianÛpolis || C‚mera Olho ProduÁıes || ||
+| 2007 || O Lado de K ||  || || Florian√≥polis || C√¢mera Olho Produ√ß√µes || ||
 |-
-| 2007 || Leste do Sol, Oeste da Lua || PatrÌcia Monegatto Lopes ||  AnimaÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2007 || Leste do Sol, Oeste da Lua || Patr√≠cia Monegatto Lopes ||  Anima√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || L˙cia McCartney || Jefferson Rocha-ANgÈlica do Amaral  || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2007 || L√∫cia McCartney || Jefferson Rocha-ANg√©lica do Amaral  || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || Luiz Henrique - No BalanÁo do Mar || Ieda Beck || Document·rio || || FlorianÛpolis || ||
+| 2007 || Luiz Henrique - No Balan√ßo do Mar || Ieda Beck || Document√°rio || || Florian√≥polis || ||
 |-
-| 2007 || Mar de Dentro || Paschoal Samora || Document·rio || 35 mm || FlorianÛpolis || Terra de NinguÈm Filmes; Mixer ||
+| 2007 || Mar de Dentro || Paschoal Samora || Document√°rio || 35 mm || Florian√≥polis || Terra de Ningu√©m Filmes; Mixer ||
 |-
-| 2007 || Mercado de HistÛrias - A construÁ„o do Mercado na memÛria popular de FlorianÛpolis || Bianca Chiaradia || Document·rio || VÌdeo || FlorianÛpolis || || Contemplado pelo Edital Armando Carreir„o (FUNCINE) 2005
+| 2007 || Mercado de Hist√≥rias - A constru√ß√£o do Mercado na mem√≥ria popular de Florian√≥polis || Bianca Chiaradia || Document√°rio || V√≠deo || Florian√≥polis || || Contemplado pelo Edital Armando Carreir√£o (FUNCINE) 2005
 |-
-| 2007 || O MistÈrio do Boi de Mam„o || Luiza de Luz Lins || FicÁ„o || VÌdeo || FlorianÛpolis || || Vencedor do Edital Curta CrianÁa do MinistÈrio da Cultura em 2004
-Exibido na 5™ Mostra de Cinema Infantil de FlorianÛpolis
+| 2007 || O Mist√©rio do Boi de Mam√£o || Luiza de Luz Lins || Fic√ß√£o || V√≠deo || Florian√≥polis || || Vencedor do Edital Curta Crian√ßa do Minist√©rio da Cultura em 2004
+Exibido na 5¬™ Mostra de Cinema Infantil de Florian√≥polis
 |-
-| 2007 || MinÈsia || Oscar R. Junior || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2007 || Min√©sia || Oscar R. Junior || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || Momentos de Lugar Algum || Paulo Maisatto e Maira CorrÍa || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2007 || Momentos de Lugar Algum || Paulo Maisatto e Maira Corr√™a || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || Mosaico de HistÛrias de Amor || Renato Turnes || FicÁ„o || VÌdeo || FlorianÛpolis || || Exibido no 9∫ Catavideo
+| 2007 || Mosaico de Hist√≥rias de Amor || Renato Turnes || Fic√ß√£o || V√≠deo || Florian√≥polis || || Exibido no 9¬∫ Catavideo
 |-
-| 2007 || A MudanÁa de Pedro, Paula || Fernanda Fraiz || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2007 || A Mudan√ßa de Pedro, Paula || Fernanda Fraiz || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || Ojos Negros || Yanina Paralta || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Ojos Negros || Yanina Paralta || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || Olhar de um Cineasta || CÈsar Cavalcanti || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Olhar de um Cineasta || C√©sar Cavalcanti || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || Ouroboro || MaurÌcio Anton‚ngelo || FicÁ„o || VÌdeo || FlorianÛpolis ||  || Exibido no 41∫ Festival de BrasÌlia
-Exibido no Festival Internacional de Curta-metragens de S„o Paulo de 2008
+| 2007 || Ouroboro || Maur√≠cio Anton√¢ngelo || Fic√ß√£o || V√≠deo || Florian√≥polis ||  || Exibido no 41¬∫ Festival de Bras√≠lia
+Exibido no Festival Internacional de Curta-metragens de S√£o Paulo de 2008
 Exibido no FAM 2008
 |-
 |-
-| 2007 || Palco || Paulo Henrique dos Santos Souza || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Palco || Paulo Henrique dos Santos Souza || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || A Parte || Lucas Alves e JosÈ Manuel Sappino ||  || VÌdeo ||  ||  ||
+| 2007 || A Parte || Lucas Alves e Jos√© Manuel Sappino ||  || V√≠deo ||  ||  ||
 |-
-| 2007 || PerseguiÁıes de uma outra guerra || Beto e Lallo Bocchino || Document·rio || VÌdeo || ItajaÌ ||  ||
+| 2007 || Persegui√ß√µes de uma outra guerra || Beto e Lallo Bocchino || Document√°rio || V√≠deo || Itaja√≠ ||  ||
 |-
-| 2007 || Passeio Hippie, Pseudo  Beatinik e Semi Bicho Grilho || Domingos Longo || Experimental || VÌdeo || S„o JosÈ ||  ||
+| 2007 || Passeio Hippie, Pseudo  Beatinik e Semi Bicho Grilho || Domingos Longo || Experimental || V√≠deo || S√£o Jos√© ||  ||
 |-
-| 2007 || Poliedro || Felipe Moraes || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Poliedro || Felipe Moraes || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || O PreÁo da Liberdade || Nilton C. Storino Junior, Eduardo Scandaroli Rodrigues, Wellington Santos Cruz, Rafaella SÌgolo Coury, Alex Vissoto || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || O Pre√ßo da Liberdade || Nilton C. Storino Junior, Eduardo Scandaroli Rodrigues, Wellington Santos Cruz, Rafaella S√≠golo Coury, Alex Vissoto || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || Quem disse que eu estou indo pra casa? || Marco Stroisch || FicÁ„o || VÌdeo || FlorianÛpolis ||  || Exibido no 9∫ CatavÌdeo
+| 2007 || Quem disse que eu estou indo pra casa? || Marco Stroisch || Fic√ß√£o || V√≠deo || Florian√≥polis ||  || Exibido no 9¬∫ Catav√≠deo
 |-
-| 2007 || Profetas da Chuva e da EsperanÁa || M·rcia ParaÌso || Document·rio ||  || FlorianÛpolis ||  ||
+| 2007 || Profetas da Chuva e da Esperan√ßa || M√°rcia Para√≠so || Document√°rio ||  || Florian√≥polis ||  ||
 |-
-| 2007 || A professora em uma comunidade alem„ || Irene Rios da Silva || Document·rio || VÌdeo ||  ||  ||
+| 2007 || A professora em uma comunidade alem√£ || Irene Rios da Silva || Document√°rio || V√≠deo ||  ||  ||
 |-
-| 2007 || Qualquer coisa que n„o saiba morrer || Aline Maciel || Experimental || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Qualquer coisa que n√£o saiba morrer || Aline Maciel || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || Rotina || Rodrigo Rodrigues || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Rotina || Rodrigo Rodrigues || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || Saiu na TV || Bernardo Garcia || FicÁ„o/Mockument·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Saiu na TV || Bernardo Garcia || Fic√ß√£o/Mockument√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || Santa || Marina Scherer || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Santa || Marina Scherer || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || O ser ser o ser || Lina Lavoratti || Experimental || VÌdeo || FlorianÛpolis ||  || Exibido no 9∫ CatavÌdeo
+| 2007 || O ser ser o ser || Lina Lavoratti || Experimental || V√≠deo || Florian√≥polis ||  || Exibido no 9¬∫ Catav√≠deo
 |-
-| 2007 || SilÍncios || Renato Magalh„es || FicÁ„o || VÌdeo || FlorianÛpolis ||  || Exibido no 9∫ CatavÌdeo
+| 2007 || Sil√™ncios || Renato Magalh√£es || Fic√ß√£o || V√≠deo || Florian√≥polis ||  || Exibido no 9¬∫ Catav√≠deo
 |-
-| 2007 || A Sociedade das Apostas || Thiago Schmidt Rodrigues de Quadros || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || A Sociedade das Apostas || Thiago Schmidt Rodrigues de Quadros || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || Sofia || Alexandre Franco || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Sofia || Alexandre Franco || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || Strip Poker || Cristian Abes || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Strip Poker || Cristian Abes || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || O Trem entre as Rosas || Renan Blah, Naara Santos || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || O Trem entre as Rosas || Renan Blah, Naara Santos || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || Trombada || Renan Blah || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2007 || Trombada || Renan Blah || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2007 || Um ch· para dois || Angela Faoro || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Um ch√° para dois || Angela Faoro || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || Um dedo de Prosa || Gabriela Damasceno || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2007 || Um dedo de Prosa || Gabriela Damasceno || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2007 || Um Trailer em Chamas || Gurcius Gewdner || AnimaÁ„o || VÌdeo || FlorianÛpolis/Joinville ||  ||
+| 2007 || Um Trailer em Chamas || Gurcius Gewdner || Anima√ß√£o || V√≠deo || Florian√≥polis/Joinville ||  ||
 |-
-| 2008 || 9m X 15 || Alejandro Ahmed e Marco Martins || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2008 || 9m X 15 || Alejandro Ahmed e Marco Martins || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Alice || Paula Pazinato || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2008 || Alice || Paula Pazinato || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Amanda e Monick || AndrÈ da Costa e Pinto || Document·rio || || || ||
+| 2008 || Amanda e Monick || Andr√© da Costa e Pinto || Document√°rio || || || ||
 |-
-| 2008 || Aos espanhÛis confinantes ||   ngelo Clemente Sganzerla || FIcÁ„o || 35 mm || FlorianÛpolis || || Contemplado pelo PrÍmio Cinemateca Catarinense FCC 2002
-Exibido na 32™ Mostra Internacional de Cinema de S„o Paulo
+| 2008 || Aos espanh√≥is confinantes ||   ngelo Clemente Sganzerla || FIc√ß√£o || 35 mm || Florian√≥polis || || Contemplado pelo Pr√™mio Cinemateca Catarinense FCC 2002
+Exibido na 32¬™ Mostra Internacional de Cinema de S√£o Paulo
 |-
-| 2008 || Aqu·rio || CÌntia Domit Bittar || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2008 || Aqu√°rio || C√≠ntia Domit Bittar || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || AquÌfero Guarani, gigante desconhecido || M·rcia ParaÌso || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2008 || Aqu√≠fero Guarani, gigante desconhecido || M√°rcia Para√≠so || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Black Peace || Diogo Ramon Carpes Alves Vanolli || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2008 || Black Peace || Diogo Ramon Carpes Alves Vanolli || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || CanÁ„o de Embarque || Christian Abes || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2008 || Can√ß√£o de Embarque || Christian Abes || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || O Convite || Gustavo Bueno Laranjeira || FicÁ„o|| VÌdeo || FlorianÛpolis ||  ||
+| 2008 || O Convite || Gustavo Bueno Laranjeira || Fic√ß√£o|| V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || As costuras do guarda-chuva de LautreamÛnt || Ana Carolina von Hertwig e Rodrigo Ramos || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2008 || As costuras do guarda-chuva de Lautream√≥nt || Ana Carolina von Hertwig e Rodrigo Ramos || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Crescendo || Mauro Ramos || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2008 || Crescendo || Mauro Ramos || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Da Fenda ao Abismo || Leonardo Dal BÛ || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2008 || Da Fenda ao Abismo || Leonardo Dal B√≥ || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Deep Space Worms || Richard Valentini || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2008 || Deep Space Worms || Richard Valentini || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Depois daquela festa || Saulo Popov Zambiasi || FicÁ„o || VÌdeo || ChapecÛ || ||
+| 2008 || Depois daquela festa || Saulo Popov Zambiasi || Fic√ß√£o || V√≠deo || Chapec√≥ || ||
 |-
-| 2008 || Desilus„o || Bob Barbosa e Marco Stroisch || FicÁ„o || 35 mm || FlorianÛpolis || || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2005
+| 2008 || Desilus√£o || Bob Barbosa e Marco Stroisch || Fic√ß√£o || 35 mm || Florian√≥polis || || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2005
 |-
-| 2008 || Entropia || Lucian Chaussard || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2008 || Entropia || Lucian Chaussard || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || ErotikÛs Corpos em Movimento || Melina Curi || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2008 || Erotik√≥s Corpos em Movimento || Melina Curi || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || ExpediÁ„o Le„o Baio || M·rcia ParaÌso || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2008 || Expedi√ß√£o Le√£o Baio || M√°rcia Para√≠so || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Fade || Jo„o Rafael Gomes Vaz || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2008 || Fade || Jo√£o Rafael Gomes Vaz || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Falua Rodante || Samuel Imparato || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2008 || Falua Rodante || Samuel Imparato || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Farinhada || Ademir Damasco || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2008 || Farinhada || Ademir Damasco || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Festival GeraÁ„o 2008 || Cristiane Ugolini || Experimental || || FlorianÛpolis || ||
+| 2008 || Festival Gera√ß√£o 2008 || Cristiane Ugolini || Experimental || || Florian√≥polis || ||
 |-
-| 2008 || Franklin Cascaes || Edina de Marco, JosÈ Rafael Mamigonian e Norberto Verani Depiozzolati || Document·rio || || FlorianÛpolis || ||
+| 2008 || Franklin Cascaes || Edina de Marco, Jos√© Rafael Mamigonian e Norberto Verani Depiozzolati || Document√°rio || || Florian√≥polis || ||
 |-
-| 2008 || HistÛria da Cerveja em Santa Catarina || AndrÈs Peter || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2008 || Hist√≥ria da Cerveja em Santa Catarina || Andr√©s Peter || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || A humanidade em cada um de nÛs || Elizabeth Santos FelÌcio || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2008 || A humanidade em cada um de n√≥s || Elizabeth Santos Fel√≠cio || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Interl˙dio || Felipe Moraes || FicÁ„o || VÌdeo || FlorianÛpolis || || 
+| 2008 || Interl√∫dio || Felipe Moraes || Fic√ß√£o || V√≠deo || Florian√≥polis || || 
 |-
-| 2008 || Kamatori || Alexandre Fuchigami || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2008 || Kamatori || Alexandre Fuchigami || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Martinho de Haro - A cidade reinventada || Chico Pereira || Document·rio || VÌdeo || FlorianÛpolis  || ||
+| 2008 || Martinho de Haro - A cidade reinventada || Chico Pereira || Document√°rio || V√≠deo || Florian√≥polis  || ||
 |-
-| 2008 || Meninos do Engenho || Ademir Damasco || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2008 || Meninos do Engenho || Ademir Damasco || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || A Mesa || Maria Augusta V. Nunes || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2008 || A Mesa || Maria Augusta V. Nunes || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Miragem || Bruno Pucci || Experimental || VÌdeo || FlorianÛpolis|| ||
+| 2008 || Miragem || Bruno Pucci || Experimental || V√≠deo || Florian√≥polis|| ||
 |-
-| 2008 || MocotÛ do Morro || DireÁ„o Coletiva || Document·rio || FlorianÛpolis || || ||
+| 2008 || Mocot√≥ do Morro || Dire√ß√£o Coletiva || Document√°rio || Florian√≥polis || || ||
 |-
-| 2008 || No Meu Lugar || Marcele Emerin, ANdrÈ Zacchi e Christian Abes || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2008 || No Meu Lugar || Marcele Emerin, ANdr√© Zacchi e Christian Abes || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2008 || Num Piscar || Deicimara Dias || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || Num Piscar || Deicimara Dias || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || OndulaÁıes || Vinicius Muniz || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || Ondula√ß√µes || Vinicius Muniz || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || Ponto || Manuel Augusto Dischinger Moura || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || Ponto || Manuel Augusto Dischinger Moura || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || A personalÌssima Dete Piazza || Carolina Coral || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || A personal√≠ssima Dete Piazza || Carolina Coral || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || Quanto ao Fututro || Christian Abes || FicÁ„o || VÌdeo  || FlorianÛpolis ||  ||
+| 2008 || Quanto ao Fututro || Christian Abes || Fic√ß√£o || V√≠deo  || Florian√≥polis ||  ||
 |-
-| 2008 || Sistema de AnimaÁ„o || Guilherme Ledoux e Alan Langdon || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || Sistema de Anima√ß√£o || Guilherme Ledoux e Alan Langdon || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || A Sombra da BernunÁa || Renan Blah || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || A Sombra da Bernun√ßa || Renan Blah || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || Tempo de RedenÁ„o || Denis Franco Goedert || FicÁ„o || VÌdeo || Balne·rio Camburi˙ ||  ||
+| 2008 || Tempo de Reden√ß√£o || Denis Franco Goedert || Fic√ß√£o || V√≠deo || Balne√°rio Camburi√∫ ||  ||
 |-
-| 2008 || TOC || Carlos Eduardo dos Reis, Nastaja Brehsan, Rafaela Amaro e Thiago Panchiniak || Experimental || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || TOC || Carlos Eduardo dos Reis, Nastaja Brehsan, Rafaela Amaro e Thiago Panchiniak || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || Uma Noite de Calor || Simone Bastos || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || Uma Noite de Calor || Simone Bastos || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || O universo bucÛlico de Franklin Cascaes - A procura do Boitat· afugentado || Chico Pereira || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || O universo buc√≥lico de Franklin Cascaes - A procura do Boitat√° afugentado || Chico Pereira || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || Vale Verde || Bernardo Gomes || FicÁ„o || VÌdeo || FlorianÛplis ||  ||
+| 2008 || Vale Verde || Bernardo Gomes || Fic√ß√£o || V√≠deo || Florian√≥plis ||  ||
 |-
-| 2008 || A Vida de Oto || Vitor Cordeiro || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || A Vida de Oto || Vitor Cordeiro || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || Vim dizer que estou indo || Yannet Briggiler || AnimaÁ„o || VÌdeo ||  ||  ||
+| 2008 || Vim dizer que estou indo || Yannet Briggiler || Anima√ß√£o || V√≠deo ||  ||  ||
 |-
-| 2009 || Vago || Lucas Nero || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || Vago || Lucas Nero || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || Yasmin - Filme de FicÁ„o || Cristiano Koji Kodama || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || Yasmin - Filme de Fic√ß√£o || Cristiano Koji Kodama || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2008 || Zebra || Luciano Razera || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2008 || Zebra || Luciano Razera || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || 2 Ways || Vandrei Jaques || FicÁ„o || VÌdeo || FlorianÛpolis || || 
+| 2009 || 2 Ways || Vandrei Jaques || Fic√ß√£o || V√≠deo || Florian√≥polis || || 
 |-
-| 2009 || 14 Noites || Christian Abes || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || 14 Noites || Christian Abes || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || Amarras || LetÌcia Kapper || Document·rio || VÌdeo || FlorianÛpolis || || Contemplado pelo Edital Armando Carreir„o (FUNCINE)
+| 2009 || Amarras || Let√≠cia Kapper || Document√°rio || V√≠deo || Florian√≥polis || || Contemplado pelo Edital Armando Carreir√£o (FUNCINE)
 |-
-| 2009 ||   ngelo, o coveiro || Renato Turnes || FicÁ„o || VÌdeo || FlorianÛpolis || || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2007
+| 2009 ||   ngelo, o coveiro || Renato Turnes || Fic√ß√£o || V√≠deo || Florian√≥polis || || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2007
 |-
-| 2009 || Armatron e D-Droid || Marcello Trigo || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || Armatron e D-Droid || Marcello Trigo || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || Betova 365 || Alan Langdon || Document·rio || VÌdeo || Urubici || ||
+| 2009 || Betova 365 || Alan Langdon || Document√°rio || V√≠deo || Urubici || ||
 |-
-| 2009 || O Campeonato de Pescaria || Luiza Lins e Marco Martins || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || O Campeonato de Pescaria || Luiza Lins e Marco Martins || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || Carteiro || Marcos Elias Berghahn || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || Carteiro || Marcos Elias Berghahn || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || As chaves, o mimeografo e a prova de matem·tica || Carol Gesser || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || As chaves, o mimeografo e a prova de matem√°tica || Carol Gesser || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || Cris·lida || LÌgia Maciel Ferraz || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || Cris√°lida || L√≠gia Maciel Ferraz || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || O Corpo - Mente || Bruno Ropelato || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2009 || O Corpo - Mente || Bruno Ropelato || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || Da Janela || Giovana Zimermann e Sebasti„o Braga || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || Da Janela || Giovana Zimermann e Sebasti√£o Braga || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || Desaprumo || Marcos VinÌcius DíElboux || FicÁ„o || 35 mm || FlorianÛpolis || ||
+| 2009 || Desaprumo || Marcos Vin√≠cius D‚ÄôElboux || Fic√ß√£o || 35 mm || Florian√≥polis || ||
 |-
-| 2009 || (Des)construÁ„o || Saulo Popov Zambiasi || FicÁ„o || VÌdeo || ChapecÛ || || 
+| 2009 || (Des)constru√ß√£o || Saulo Popov Zambiasi || Fic√ß√£o || V√≠deo || Chapec√≥ || || 
 |-
-| 2009 || Desenho Cego || Erica Passig || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || Desenho Cego || Erica Passig || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || O dia em que o boi veio para jantar || Fernanda Lago, Rafael Pereira, Renato Cristofoletti, Tatiana Lee e MaurÌcio Muniz || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || O dia em que o boi veio para jantar || Fernanda Lago, Rafael Pereira, Renato Cristofoletti, Tatiana Lee e Maur√≠cio Muniz || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || DomÈsticas para a vida || Paulo Henrique de Moura || Document·rio || VÌdeo || ItajaÌ || ||
+| 2009 || Dom√©sticas para a vida || Paulo Henrique de Moura || Document√°rio || V√≠deo || Itaja√≠ || ||
 |-
-| 2009 || El Panda || Osvaldo Luciano || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || El Panda || Osvaldo Luciano || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || EspÌrito de Porco || Chico Faganello || Document·rio || VÌdeo || || || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2005
+| 2009 || Esp√≠rito de Porco || Chico Faganello || Document√°rio || V√≠deo || || || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2005
 |-
-| 2009 || ET - Emiss·rio da Terra || Rafael Schlichting || FicÁ„o || 35 mm || FlorianÛpolis || || Contemplado pelo PrÍmio Arnando Carreir„o 2008 (FUNCINE)
+| 2009 || ET - Emiss√°rio da Terra || Rafael Schlichting || Fic√ß√£o || 35 mm || Florian√≥polis || || Contemplado pelo Pr√™mio Arnando Carreir√£o 2008 (FUNCINE)
 |-
-| 2009 || Flores e Cigarros || William Martins || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || Flores e Cigarros || William Martins || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || FotossensÌvel || Kike Kreuger || Document·rio || VÌdeo || FlorianÛpolis || || Exibido no Festival de Curta-metragens de S„o Paulo de 2009
+| 2009 || Fotossens√≠vel || Kike Kreuger || Document√°rio || V√≠deo || Florian√≥polis || || Exibido no Festival de Curta-metragens de S√£o Paulo de 2009
 |-
-| 2009 || G || Loli Menezes || Experimental || VÌdeo || FlorianÛpolis || ||
+| 2009 || G || Loli Menezes || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || Game Over || Luis Gustavo D. dos Anjos e Arthur ìTatauî || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || Game Over || Luis Gustavo D. dos Anjos e Arthur ‚ÄúTatau‚Äù || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || Isca || Yannet Briggiler || AnimaÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2009 || Isca || Yannet Briggiler || Anima√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || Jo„ozinho, Buh! || Rafael Martins || FicÁ„o || VÌdeo || FlorianÛpolis|| ||
+| 2009 || Jo√£ozinho, Buh! || Rafael Martins || Fic√ß√£o || V√≠deo || Florian√≥polis|| ||
 |-
-| 2009 || MaciÁo || Pedro MC || Document·rio || VÌdeo || FlorianÛpolis|| || Contemplado pelo PrÍmio Cinemateca Catarinense FCC 2005
+| 2009 || Maci√ßo || Pedro MC || Document√°rio || V√≠deo || Florian√≥polis|| || Contemplado pelo Pr√™mio Cinemateca Catarinense FCC 2005
 |-
-| 2009 || Malabares - O filho dos outros || Mara Salla || FicÁ„o || 35 mm || FlorianÛpolis|| ||
+| 2009 || Malabares - O filho dos outros || Mara Salla || Fic√ß√£o || 35 mm || Florian√≥polis|| ||
 |-
-| 2009 || A M„o do Macaco || Jefferson Bittencourt || FicÁ„o || VÌdeo || FlorianÛpolis || || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2005
+| 2009 || A M√£o do Macaco || Jefferson Bittencourt || Fic√ß√£o || V√≠deo || Florian√≥polis || || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2005
 |-
-| 2009 || MemÛrias de Jorge Lacerda || Roberto Lacerda Westrupp || Document·rio || VÌdeo || FlorianÛpolis || || Exibido no 1∫ Festival de cinema de Parauapebas ñ Curta Caraj·s
+| 2009 || Mem√≥rias de Jorge Lacerda || Roberto Lacerda Westrupp || Document√°rio || V√≠deo || Florian√≥polis || || Exibido no 1¬∫ Festival de cinema de Parauapebas ‚Äì Curta Caraj√°s
 |-
-| 2009 || Minha Geladeira || Thiago de Verney InocÍncio || AnimaÁ„o || VÌdeo || FlorianÛpolis ||
+| 2009 || Minha Geladeira || Thiago de Verney Inoc√™ncio || Anima√ß√£o || V√≠deo || Florian√≥polis ||
 |-
-| 2009 || Mundo Novo || Peter Gossweiler || Experimental || VÌdeo || Palmitos || ||
+| 2009 || Mundo Novo || Peter Gossweiler || Experimental || V√≠deo || Palmitos || ||
 |-
-| 2009 || Mundo Selvagem || Marcia Paraiso || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2009 || Mundo Selvagem || Marcia Paraiso || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2009 || Oito doses de conhaque || Breno Turnes || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || Oito doses de conhaque || Breno Turnes || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || Perdi meu escamento em Urubici || Alan Langdon || Document·rio || VÌdeo || Urubici ||  ||
+| 2009 || Perdi meu escamento em Urubici || Alan Langdon || Document√°rio || V√≠deo || Urubici ||  ||
 |-
-| 2009 || O Pescador de Sonhos || Igor PItta Simıes || AnimaÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || O Pescador de Sonhos || Igor PItta Sim√µes || Anima√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || Que Cheiro de Grama Cortada no Frio || Heitor Caramez || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || Que Cheiro de Grama Cortada no Frio || Heitor Caramez || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || O Que Ficou de NÛs Dois || Munick Polli || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || O Que Ficou de N√≥s Dois || Munick Polli || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || Quimera || Melissa Lipinsky || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || Quimera || Melissa Lipinsky || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || Se eu morresse amanh„ || Ricardo Weschenfelder || FicÁ„o || 35 mm || FlorianÛpolis ||  || Contemplado pelo PrÍmio Cinemateca Catarinense FCC 2007
-Exibido no FlorianÛpolis Audiovisual Mercosul 2009
+| 2009 || Se eu morresse amanh√£ || Ricardo Weschenfelder || Fic√ß√£o || 35 mm || Florian√≥polis ||  || Contemplado pelo Pr√™mio Cinemateca Catarinense FCC 2007
+Exibido no Florian√≥polis Audiovisual Mercosul 2009
 |-
-| 2009 || Sem Palavras || Katia Klock || Document·rio || VÌdeo || FlorianÛpolis ||  || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2007
+| 2009 || Sem Palavras || Katia Klock || Document√°rio || V√≠deo || Florian√≥polis ||  || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2007
 |-
-| 2009 || Sereia || Rodrigo Amboni || AnimaÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || Sereia || Rodrigo Amboni || Anima√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || Tanto || Nataly Callai || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || Tanto || Nataly Callai || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || Te vejo no espaÁo || Matheus Roberto Souza || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || Te vejo no espa√ßo || Matheus Roberto Souza || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || Uma CamÈlia Vermelha || Bob Barbosa || FicÁ„o || VÌdeo || FlorianÛpolis ||  || Contemplado pelo Edital Armando Carreir„o 2008
+| 2009 || Uma Cam√©lia Vermelha || Bob Barbosa || Fic√ß√£o || V√≠deo || Florian√≥polis ||  || Contemplado pelo Edital Armando Carreir√£o 2008
 |-
-| 2009 || Uma Lagoa de Cuidados || Laura D. R. Castilho || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || Uma Lagoa de Cuidados || Laura D. R. Castilho || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || Uma Luz no Fim do T˙nel || AntÙnio Zanella || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || Uma Luz no Fim do T√∫nel || Ant√¥nio Zanella || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2009 || Uma tarrafa para Cascaes || Fancis Silvy || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+| 2009 || Uma tarrafa para Cascaes || Fancis Silvy || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-| 2010 || Anomalia || Luiz Henrique Lima Sebasti„o || FicÁ„o || VÌdeo || PalhoÁa || ||
+| 2010 || Anomalia || Luiz Henrique Lima Sebasti√£o || Fic√ß√£o || V√≠deo || Palho√ßa || ||
 |-
-| 2010 || Ballet das coisas || Bruna Granucci || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2010 || Ballet das coisas || Bruna Granucci || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2010 || Beijo de Arame Farpado || Marco Martins || FicÁ„o || 35 mm || FlorianÛpolis || || Contemplado no PrÍmio Catarinense de Cinema FCC 2007
+| 2010 || Beijo de Arame Farpado || Marco Martins || Fic√ß√£o || 35 mm || Florian√≥polis || || Contemplado no Pr√™mio Catarinense de Cinema FCC 2007
 Exibido no FAM 2010
 |-
-| 2010 || Contra PÍlos || Danilo Seeman || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| 2010 || Contra P√™los || Danilo Seeman || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| 2010 || Ein Prosit! || Guto Lima || Document·rio || 35 mm || FlorianÛpolis ||  || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2008
+| 2010 || Ein Prosit! || Guto Lima || Document√°rio || 35 mm || Florian√≥polis ||  || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2008
 |-
-| 2010 || Enquanto Isso || Chico Nascimento || AnimaÁ„o || VÌdeo || PalhoÁa || ||
+| 2010 || Enquanto Isso || Chico Nascimento || Anima√ß√£o || V√≠deo || Palho√ßa || ||
 |-
-| 2010 || O Jardineiro e o Pirata || PatrÌcia Monegatto Lopes e Stella Bloss || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2010 || O Jardineiro e o Pirata || Patr√≠cia Monegatto Lopes e Stella Bloss || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2010 || Maestro Heinz Geyer || AndrÈas Peter || Document·rio || VÌdeo || FlorianÛpolis || ||
+| 2010 || Maestro Heinz Geyer || Andr√©as Peter || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-| 2010 || Mulheres da Terra || Marcia Paraiso || Document·rio || VÌdeo || FlorianÛpolis || Plural Filmes ||
+| 2010 || Mulheres da Terra || Marcia Paraiso || Document√°rio || V√≠deo || Florian√≥polis || Plural Filmes ||
 |-
-| 2010 || Ovonovelo || Fernando BopprÈ e Maria EmÌlia Azevedo || Document·rio || VÌdeo || FlorianÛpolis ||  || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2008
+| 2010 || Ovonovelo || Fernando Boppr√© e Maria Em√≠lia Azevedo || Document√°rio || V√≠deo || Florian√≥polis ||  || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2008
 |-
-| 2010 || Semvida || Diego Lara || FicÁ„o || VÌdeo || ItajaÌ ||  || Financiado atravÈs da Lei Municipal da cidade de ItajaÌ
+| 2010 || Semvida || Diego Lara || Fic√ß√£o || V√≠deo || Itaja√≠ ||  || Financiado atrav√©s da Lei Municipal da cidade de Itaja√≠
 |-
-| 2010 || SHHH! || AyaÁa C. Castro || Experimental || VÌdeo || FlorianÛpolis ||  ||
+| 2010 || SHHH! || Aya√ßa C. Castro || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || 16 Horas || Graciele Galera e Paulo Henrique de Moura || FicÁ„o || VÌdeo || ItajaÌ || ||
+|  || 16 Horas || Graciele Galera e Paulo Henrique de Moura || Fic√ß√£o || V√≠deo || Itaja√≠ || ||
 |-
-|  || 2 em 1 - A evoluÁ„o do amor || Vilmar Samuel Abreu || FicÁ„o || VÌdeo || FlorianÛpolis || ||   
+|  || 2 em 1 - A evolu√ß√£o do amor || Vilmar Samuel Abreu || Fic√ß√£o || V√≠deo || Florian√≥polis || ||   
 |-
-|  || ABCÖ Nunca È tarde para aprender || Dayves Augusto Vegini e Simone Castro || Document·rio || || ItajaÌ || ||
+|  || ABC‚Ä¶ Nunca √© tarde para aprender || Dayves Augusto Vegini e Simone Castro || Document√°rio || || Itaja√≠ || ||
 |-
-|  || Abismal || AntÙnio Carlos || FicÁ„o || || FlorianÛpolis || ||
+|  || Abismal || Ant√¥nio Carlos || Fic√ß√£o || || Florian√≥polis || ||
 |-
-|  || Amigo Imagin·rio || Gurcianus Gewdner || FIcÁ„o || VÌdeo || Palmitos || ||
+|  || Amigo Imagin√°rio || Gurcianus Gewdner || FIc√ß√£o || V√≠deo || Palmitos || ||
 |-
-|  || As Cartas de Sofia || Rose Baer || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+|  || As Cartas de Sofia || Rose Baer || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-|  || Aventuras na Ilha da Magia || Rubens Belli || AnimaÁ„o || 35 mm || FlorianÛpolis || || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2001
+|  || Aventuras na Ilha da Magia || Rubens Belli || Anima√ß√£o || 35 mm || Florian√≥polis || || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2001
 |-
-|  || Bathsphere || Elisa Everson e ZÈ Guilherme || Experimental || VÌdeo || || ||
+|  || Bathsphere || Elisa Everson e Z√© Guilherme || Experimental || V√≠deo || || ||
 |-
-|  || O Besouro e o Beija-Flor || Mika Plaza e Juli„o Goulart  || || || || ||
+|  || O Besouro e o Beija-Flor || Mika Plaza e Juli√£o Goulart  || || || || ||
 |-
-|  || Boa Sorte || Lucas Palpita || Experimental || VÌdeo ||  || ||
+|  || Boa Sorte || Lucas Palpita || Experimental || V√≠deo ||  || ||
 |-
-|  || Breve Passagem || Jefferson Bittencourt e Loli Menezes || Document·rio || VÌdeo || FlorianÛpolis || ||
+|  || Breve Passagem || Jefferson Bittencourt e Loli Menezes || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-|  || Burguesa - HistÛria de gente e de lixo || Giane Maria de Souza || Document·rio || VÌdeo || FlorianÛpolis || || 
+|  || Burguesa - Hist√≥ria de gente e de lixo || Giane Maria de Souza || Document√°rio || V√≠deo || Florian√≥polis || || 
 |-
-|  || Capota de Fusca || Karla Simas || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+|  || Capota de Fusca || Karla Simas || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| || CatÛlicos e Protestantes - Um confluto em Santa Isabel || DireÁ„o coletiva || || VÌdeo || || ||
+| || Cat√≥licos e Protestantes - Um confluto em Santa Isabel || Dire√ß√£o coletiva || || V√≠deo || || ||
 |-
-|  || Cer‚mica na EducaÁ„o || T‚nia Maria Ramires || Document·rio || VÌdeo || FlorianÛpolis || ||
+|  || Cer√¢mica na Educa√ß√£o || T√¢nia Maria Ramires || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-|  || Certa Noite || Simone Bastos || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+|  || Certa Noite || Simone Bastos || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-|  || Ciclo das Horas || Scheila Ana Calgaro || Document·rio || VÌdeo || ItajaÌ || ||
+|  || Ciclo das Horas || Scheila Ana Calgaro || Document√°rio || V√≠deo || Itaja√≠ || ||
 |-
-|  || Cine ARt 7: Os Descaminhos da MemÛria || Phelipe Janning e Andrezza Mello || Document·rio || VÌdeo || FlorianÛpolis || ||
+|  || Cine ARt 7: Os Descaminhos da Mem√≥ria || Phelipe Janning e Andrezza Mello || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-|  || ClÌmax || Gurcius Gewdner || AnimaÁ„o || VÌdeo || FlorianÛpolis|| ||
+|  || Cl√≠max || Gurcius Gewdner || Anima√ß√£o || V√≠deo || Florian√≥polis|| ||
 |-
-|  || A Crise de ArcÌsio || JanaÌna Dalri e Renato Magalh„es || FicÁ„o || || FlorianÛpolis || ||
+|  || A Crise de Arc√≠sio || Jana√≠na Dalri e Renato Magalh√£es || Fic√ß√£o || || Florian√≥polis || ||
 |-
 |  || Consegue Ver || Lucas Palpita || Experimental || || || ||
 |-
-|  || Contraponto || Marcelo F. de Souza || FicÁ„o || || || ||
+|  || Contraponto || Marcelo F. de Souza || Fic√ß√£o || || || ||
 |-
-| || CrÙnica de uma morte inesperada || AndrÈ Bathke Humeres || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+| || Cr√¥nica de uma morte inesperada || Andr√© Bathke Humeres || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-|  || A DanÁa do Poder || Guilherme Haas || FIcÁ„o || || FlorianÛpolis || ||
+|  || A Dan√ßa do Poder || Guilherme Haas || FIc√ß√£o || || Florian√≥polis || ||
 |-
-|  || Dark Angel || Gurcius Gewdner || AnimaÁ„o || VÌdeo || Palmitos || ||
+|  || Dark Angel || Gurcius Gewdner || Anima√ß√£o || V√≠deo || Palmitos || ||
 |-
-|  || Desafio de um Rei || Karen R. Keppe e Rafael Costa || AnimaÁ„o || VÌdeo || || ||
+|  || Desafio de um Rei || Karen R. Keppe e Rafael Costa || Anima√ß√£o || V√≠deo || || ||
 |-
-|  || Desconstruindo o Estigma || Pablo-Mizraji || Document·rio || VÌdeo || FlorianÛpolis || ||
+|  || Desconstruindo o Estigma || Pablo-Mizraji || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-|  || O dia em que o r·dio foi maior que o fogo || Beto e Lallo Bocchino || Document·rio || VÌdeo || ItajaÌ || PangÈia ProduÁıes ||
+|  || O dia em que o r√°dio foi maior que o fogo || Beto e Lallo Bocchino || Document√°rio || V√≠deo || Itaja√≠ || Pang√©ia Produ√ß√µes ||
 |-
-|  || Dobra || Penna Filho || FicÁ„o || 35 mm || FlorianÛpolis|| || Contemplado pelo PrÍmio Catarinense de Cinema FCC 2005
+|  || Dobra || Penna Filho || Fic√ß√£o || 35 mm || Florian√≥polis|| || Contemplado pelo Pr√™mio Catarinense de Cinema FCC 2005
 |-
-|  || Doce Turminha e o Bom Samaritano || Eduardo Drachinski || AnimaÁ„o || VÌdeo || FlorianÛpolis || ||
+|  || Doce Turminha e o Bom Samaritano || Eduardo Drachinski || Anima√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-|  || Os dois lados da vida || DÈbora Santini/Leandro Batz/Peter Francis/Willian S.F. || FicÁ„o || || FlorianÛpolis || ||
+|  || Os dois lados da vida || D√©bora Santini/Leandro Batz/Peter Francis/Willian S.F. || Fic√ß√£o || || Florian√≥polis || ||
 |-
-|  || EducaÁ„o || F·bio Porto || FicÁ„o || || Joinville || ||
+|  || Educa√ß√£o || F√°bio Porto || Fic√ß√£o || || Joinville || ||
 |-
-|  || ElaboratÛrio || Poliana Martinelli || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+|  || Elaborat√≥rio || Poliana Martinelli || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-|  || O Espectador || Fernando Tomaz || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+|  || O Espectador || Fernando Tomaz || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-| || Fpolis_XX, Ano 3.025 || Everson Martins || Experimental || || FlorianÛpolis || ||
+| || Fpolis_XX, Ano 3.025 || Everson Martins || Experimental || || Florian√≥polis || ||
 |-
-|  || FlorianÛpolis, uma histÛria a ser contada || Fernando C. Klepzig || Document·rio || || FlorianÛpolis|| ||
+|  || Florian√≥polis, uma hist√≥ria a ser contada || Fernando C. Klepzig || Document√°rio || || Florian√≥polis|| ||
 |-
-|  || O Gato Branco || CÌntia Domit Bittar || Experimental || VÌdeo || FlorianÛpolis || ||
+|  || O Gato Branco || C√≠ntia Domit Bittar || Experimental || V√≠deo || Florian√≥polis || ||
 |-
-|  || O Gato e o Diabo || Dirce Waltrick do Amarante e Aline Maciel || FicÁ„o || || FlorianÛpolis || ||
+|  || O Gato e o Diabo || Dirce Waltrick do Amarante e Aline Maciel || Fic√ß√£o || || Florian√≥polis || ||
 |-
-|  || Gift (Sunday) || Alan Langdon || FicÁ„o || || FlorianÛpolis || ||
+|  || Gift (Sunday) || Alan Langdon || Fic√ß√£o || || Florian√≥polis || ||
 |-
-| || HEY! TU! TODO MUNDO (PSYCOCHARME) || Alan Langdon e Guilherme Ledoux || Experimental || VÌdeo || FlorianÛpolis || || Exibido no 6∫ Catavideo
+| || HEY! TU! TODO MUNDO (PSYCOCHARME) || Alan Langdon e Guilherme Ledoux || Experimental || V√≠deo || Florian√≥polis || || Exibido no 6¬∫ Catavideo
 |-
-|  || A HistÛria de Love || Uriel Pereira || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+|  || A Hist√≥ria de Love || Uriel Pereira || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-|  || O Homem que Venceu o Sindicato || Mateus Monteiro || Document·rio || || Crici˙ma || ||
+|  || O Homem que Venceu o Sindicato || Mateus Monteiro || Document√°rio || || Crici√∫ma || ||
 |-
-|  || As Horas || Carol Vidal || Experimental || || FlorianÛpolis || ||
+|  || As Horas || Carol Vidal || Experimental || || Florian√≥polis || ||
 |-
-|  || I.S.P.O.C. - VÌdeo Gripal || Gulherme Ledoux || Experimental || || || ||
+|  || I.S.P.O.C. - V√≠deo Gripal || Gulherme Ledoux || Experimental || || || ||
 |-
-|  || A Ilha dos IlhÈus || Mara Coelho de Souza Lago, Fernanda Lago, MaurÌcio Muniz || || || || ||
+|  || A Ilha dos Ilh√©us || Mara Coelho de Souza Lago, Fernanda Lago, Maur√≠cio Muniz || || || || ||
 |-
-|  || ImÛvel || Felipe Queriquelli e LetÌcia Colossi || FicÁ„o || || FlorianÛpolis || ||
+|  || Im√≥vel || Felipe Queriquelli e Let√≠cia Colossi || Fic√ß√£o || || Florian√≥polis || ||
 |-
-|  || Impressıes || Gabriela A. Brand„o e Nicola Gonzaga || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+|  || Impress√µes || Gabriela A. Brand√£o e Nicola Gonzaga || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-|  || Indo || Bruno Vieira da Cunha || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+|  || Indo || Bruno Vieira da Cunha || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-|  || Intermitente || FabrÌcio Porto || FicÁ„o || || Joinville || ||
+|  || Intermitente || Fabr√≠cio Porto || Fic√ß√£o || || Joinville || ||
 |-
-|  || InterpretaÁ„o e Imagin·rio || Mariana Martins || Document·rio|| || || ||
+|  || Interpreta√ß√£o e Imagin√°rio || Mariana Martins || Document√°rio|| || || ||
 |-
-|  || Isso È um assalto! || Janaina Fernanda Lichoveski || FicÁ„o || VÌdeo || FlorianÛpolis || ||
+|  || Isso √© um assalto! || Janaina Fernanda Lichoveski || Fic√ß√£o || V√≠deo || Florian√≥polis || ||
 |-
-|  || Jardim do …dem || Uriel Pereira ||  || 35 mm || FlorianÛpolis || ||
+|  || Jardim do √âdem || Uriel Pereira ||  || 35 mm || Florian√≥polis || ||
 |-
-|  || Joinville - Cidade dos prÌncipes, das flores e da danÁa || Keila Miers || Document·rio || || Joinville || ||
+|  || Joinville - Cidade dos pr√≠ncipes, das flores e da dan√ßa || Keila Miers || Document√°rio || || Joinville || ||
 |-
-|  || La Moda della Casa || Daniel Signorelle  || Document·rio || VÌdeo || || ||
+|  || La Moda della Casa || Daniel Signorelle  || Document√°rio || V√≠deo || || ||
 |-
-|  || A LembranÁa das SuperfÌcies || Document·rio || VÌdeo || FlorianÛpolis || || ||
+|  || A Lembran√ßa das Superf√≠cies || Document√°rio || V√≠deo || Florian√≥polis || || ||
 |-
-|  || Lurdinha, a Vendedora de Ilusıes || Cesar Cavalcanti || Document·rio || || FlorianÛpolis || ||
+|  || Lurdinha, a Vendedora de Ilus√µes || Cesar Cavalcanti || Document√°rio || || Florian√≥polis || ||
 |-
-|  || Manifesto Canibal - O Filme || Petter Baiestorf || FicÁ„o || VÌdeo || Palmitos || ||
+|  || Manifesto Canibal - O Filme || Petter Baiestorf || Fic√ß√£o || V√≠deo || Palmitos || ||
 |-
-|  || Mar e Cultura || Tatiana Kviatkoski || Document·rio || || || ||
+|  || Mar e Cultura || Tatiana Kviatkoski || Document√°rio || || || ||
 |-
-|  || MataÖ CÈuÖ e Negros || Claudia Aguiyrre || Document·rio || VÌdeo || FlorianÛpolis || ||
+|  || Mata‚Ä¶ C√©u‚Ä¶ e Negros || Claudia Aguiyrre || Document√°rio || V√≠deo || Florian√≥polis || ||
 |-
-|  || O Nobre Deputado Sanguessuga || Petter Baiestof || FicÁ„o || VÌdeo || Palmitos ||  ||
+|  || O Nobre Deputado Sanguessuga || Petter Baiestof || Fic√ß√£o || V√≠deo || Palmitos ||  ||
 |-
-|  || A Noiva do Castelo || Ricardo W. B. da Silva / professor Mauro Fuccilini || FicÁ„o ||  || Crici˙ma ||  ||
+|  || A Noiva do Castelo || Ricardo W. B. da Silva / professor Mauro Fuccilini || Fic√ß√£o ||  || Crici√∫ma ||  ||
 |-
-|  || O Nome do DJ || Gulhermme Ledoux || Experimental || VÌdeo || FlorianÛpolis ||  ||
+|  || O Nome do DJ || Gulhermme Ledoux || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || Nosso primeiro festival (como convidados VIP, nÈ?!) || Alan Langdon || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+|  || Nosso primeiro festival (como convidados VIP, n√©?!) || Alan Langdon || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || O Olhar Infantil Redescobre FlorianÛpolis || Arlei InocÍncio || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+|  || O Olhar Infantil Redescobre Florian√≥polis || Arlei Inoc√™ncio || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || ¿ Paulista || Alan Langdon || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+|  || √Ä Paulista || Alan Langdon || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || O Pintor e o Oceano || Jorge Baggio || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+|  || O Pintor e o Oceano || Jorge Baggio || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || Pepa || Fernanda Fraiz || Experimental || VÌdeo || FlorianÛpolis ||  ||
+|  || Pepa || Fernanda Fraiz || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || Perca-se Permita-se || Everson Martins || Experimental || VÌdeo || FlorianÛpolis ||  ||
+|  || Perca-se Permita-se || Everson Martins || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || Quando o dia acaba || Sauel Nunes || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+|  || Quando o dia acaba || Sauel Nunes || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || O Quarto Olhar || Christopher Faust || FicÁ„o || VÌdeo || Blumenau ||  ||
+|  || O Quarto Olhar || Christopher Faust || Fic√ß√£o || V√≠deo || Blumenau ||  ||
 |-
-|  || Que buceta do caralho, pobre sÛ se fode!!! || Petter Baiestorf || FicÁ„o || VÌdeo || Palmitos ||  ||
+|  || Que buceta do caralho, pobre s√≥ se fode!!! || Petter Baiestorf || Fic√ß√£o || V√≠deo || Palmitos ||  ||
 |-
-|  || Repolho para todos || Marcelo Brasil e K·tia Cordeiro || FicÁ„o || VÌdeo ||  ||  ||
+|  || Repolho para todos || Marcelo Brasil e K√°tia Cordeiro || Fic√ß√£o || V√≠deo ||  ||  ||
 |-
-|  || Ritual de Passagem || Everson Martins || Experimental || VÌdeo || FlorianÛpolis ||  ||
+|  || Ritual de Passagem || Everson Martins || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || SaÌda de EmergÍncia || Leonel Camas„o || Document·rio || VÌdeo || Joinville ||  ||
+|  || Sa√≠da de Emerg√™ncia || Leonel Camas√£o || Document√°rio || V√≠deo || Joinville ||  ||
 |-
-|  || Salto Alto || Geziel Schaucoski de Oliveira || FicÁ„o ||  || FlorianÛpolis ||  ||
+|  || Salto Alto || Geziel Schaucoski de Oliveira || Fic√ß√£o ||  || Florian√≥polis ||  ||
 |-
-|  || Scissor, Paper, Rock || Allan Kanzler e Silva, Caio D¥Andrea, Fl·via Schiochet, Flora Refosco, Marina Kurth Kinnas || AnimaÁ„o || VÌdeo || Jaragu· do Sul ||  ||
+|  || Scissor, Paper, Rock || Allan Kanzler e Silva, Caio D¬¥Andrea, Fl√°via Schiochet, Flora Refosco, Marina Kurth Kinnas || Anima√ß√£o || V√≠deo || Jaragu√° do Sul ||  ||
 |-
-|  || Sobre atores e palhaÁos || Renato TurnÍs, Cl·ucia Grigolo e Loli Menezes || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+|  || Sobre atores e palha√ßos || Renato Turn√™s, Cl√°ucia Grigolo e Loli Menezes || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || Sonido || Cibele Duarte e Fernanda Fraiz || AnimaÁ„o || VÌdeo || FlorianÛpolis ||  ||
+|  || Sonido || Cibele Duarte e Fernanda Fraiz || Anima√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || TrÍs Punhados de Sonhos || Gleison Vieira || Document·rio || VÌdeo || Garuva ||  ||
+|  || Tr√™s Punhados de Sonhos || Gleison Vieira || Document√°rio || V√≠deo || Garuva ||  ||
 |-
-|  || Tudo comeÁou quando mam„e conheceu papai || Gurcius Gewdner || AnimaÁ„o ||  || FlorianÛpolis/Joinville ||  ||
+|  || Tudo come√ßou quando mam√£e conheceu papai || Gurcius Gewdner || Anima√ß√£o ||  || Florian√≥polis/Joinville ||  ||
 |-
-|  || Um e Outro || Silvana Leal e Loli Menezes || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+|  || Um e Outro || Silvana Leal e Loli Menezes || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || Um Ensaio || F·bio Porto || FicÁ„o || VÌdeo ||  ||  ||
+|  || Um Ensaio || F√°bio Porto || Fic√ß√£o || V√≠deo ||  ||  ||
 |-
-|  || Urbano || Camila Luz Sokolowski || Experimental || VÌdeo || FlorianÛpolis ||  ||
+|  || Urbano || Camila Luz Sokolowski || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || Valsinha || Alana Domit Bittar, Alessandra Coral Fischer, JÈssica Pauli de Castro Bonson || AnimaÁ„o || VÌdeo || FlorianÛpolis ||  ||
+|  || Valsinha || Alana Domit Bittar, Alessandra Coral Fischer, J√©ssica Pauli de Castro Bonson || Anima√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || Vernissage || Camila Hoffman || FicÁ„o || VÌdeo || FlorianÛpolis ||  ||
+|  || Vernissage || Camila Hoffman || Fic√ß√£o || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || O Vinho das Almas || Michael Ende || Document·rio || VÌdeo || FlorianÛpolis ||  ||
+|  || O Vinho das Almas || Michael Ende || Document√°rio || V√≠deo || Florian√≥polis ||  ||
 |-
-|  || Wara Feelin || Gustavo Cacciorro || Experimental || VÌdeo || FlorianÛpolis ||  ||
+|  || Wara Feelin || Gustavo Cacciorro || Experimental || V√≠deo || Florian√≥polis ||  ||
 |-
-| || X || Simone Bastos || Experimental || VÌdeo || FlorianÛpolis ||  ||
+| || X || Simone Bastos || Experimental || V√≠deo || Florian√≥polis ||  ||
 |}
 
 == Bibliografia ==
 
-=== PublicaÁıes: ===
+=== Publica√ß√µes: ===
 
-ARA⁄JO, Vicente de Paula. A bela Època do cinema brasileiro. 2.ed. S„o Paulo: Perspectiva, 1985.
+ARA√öJO, Vicente de Paula. A bela √©poca do cinema brasileiro. 2.ed. S√£o Paulo: Perspectiva, 1985.
 
-COELHO, Maria CecÌlia de Miranda Nogueira Cinema: lanterna m·gica da histÛria e da mitologia. FlorianÛpolis: Editora UFSC, 2010
+COELHO, Maria Cec√≠lia de Miranda Nogueira Cinema: lanterna m√°gica da hist√≥ria e da mitologia. Florian√≥polis: Editora UFSC, 2010
 
-MULLER, Carlos Braga. O cinema em Blumenau. FlorianÛpolis: Sem Editora, 2010.
+MULLER, Carlos Braga. O cinema em Blumenau. Florian√≥polis: Sem Editora, 2010.
 
-PIRES, JosÈ Henrique Nunes; DEPIZZOLATTI, Norberto Verani; ARAUJO, Sandra Mara de. O cinema em Santa Catarina. FlorianÛpolis: Editora da UFSC / Embrafilme, 1987.
+PIRES, Jos√© Henrique Nunes; DEPIZZOLATTI, Norberto Verani; ARAUJO, Sandra Mara de. O cinema em Santa Catarina. Florian√≥polis: Editora da UFSC / Embrafilme, 1987.
 
-PIRES, JosÈ Henrique. Cinema e HistÛria: JosÈ Julianelli e Alfredo Baumgarten, pioneiros do cinema catarinense. Blumenau: Edifurb, 2000
+PIRES, Jos√© Henrique. Cinema e Hist√≥ria: Jos√© Julianelli e Alfredo Baumgarten, pioneiros do cinema catarinense. Blumenau: Edifurb, 2000
 
-RAMOS, Fern„o e MIRANDA, Luis Felipe de. EnciclopÈdia do Cinema Brasileiro. S„o Paulo: Editora SENAC, 2000
+RAMOS, Fern√£o e MIRANDA, Luis Felipe de. Enciclop√©dia do Cinema Brasileiro. S√£o Paulo: Editora SENAC, 2000
 
-Cat·logos do FlorianÛpolis Audiovisual Mercosul ñ FAM 1999, 2002, 2003, 2004, 2006, 2007, 2008,2009
+Cat√°logos do Florian√≥polis Audiovisual Mercosul ‚Äì FAM 1999, 2002, 2003, 2004, 2006, 2007, 2008,2009
 
-Cat·logos do 16∫ e 18∫ Festival de Curtas-metragens de SP ñ Kinoforum
+Cat√°logos do 16¬∫ e 18¬∫ Festival de Curtas-metragens de SP ‚Äì Kinoforum
 
-REVISTA CINESOFIA ñ DESDE LA MIRADA, ano 1, n∫ de apresentaÁ„o, 1994
+REVISTA CINESOFIA ‚Äì DESDE LA MIRADA, ano 1, n¬∫ de apresenta√ß√£o, 1994
 
-REVISTA ‘ CATARINA, n∫70, 2009
+REVISTA √î CATARINA, n¬∫70, 2009
 
 === Acervos: ===
 
 Acervo Cinemateca Catarinense
 
-Acervo da Casa da MemÛria
+Acervo da Casa da Mem√≥ria
 
-Acervo do Catavideo (9∫ ,10∫ ,11∫)
+Acervo do Catavideo (9¬∫ ,10¬∫ ,11¬∫)
 
-Banco de Dados da Cinemateca Brasileira ñ Filmografia Brasileira
+Banco de Dados da Cinemateca Brasileira ‚Äì Filmografia Brasileira
 
 === Jornal: ===
 
-A NotÌcia 11/03/2007 Anexo ìColet‚nea de filmes do blumenauense Alfredo Baumgarten È exibida na Cinemateca Brasileiraî
+A Not√≠cia 11/03/2007 Anexo ‚ÄúColet√¢nea de filmes do blumenauense Alfredo Baumgarten √© exibida na Cinemateca Brasileira‚Äù
 
-A Noticia 24/03/2004 Anexo ìCinema para todosî
+A Noticia 24/03/2004 Anexo ‚ÄúCinema para todos‚Äù
 
-A Noticia 16/03/2004 Anexo ìCurso superior incrementa produÁ„o de SCî.
+A Noticia 16/03/2004 Anexo ‚ÄúCurso superior incrementa produ√ß√£o de SC‚Äù.
 
-A Noticia 29/09/2001 Anexo ìNovo sopro no cinema catarinenseî
+A Noticia 29/09/2001 Anexo ‚ÄúNovo sopro no cinema catarinense‚Äù
 
-A Noticia 19/08/2001 Anexo ìKikito dignifica Cinema Catarinenseî
+A Noticia 19/08/2001 Anexo ‚ÄúKikito dignifica Cinema Catarinense‚Äù
 
-A Noticia 25/07/2000 Anexo ìA histÛria vista pelo cinemaî
+A Noticia 25/07/2000 Anexo ‚ÄúA hist√≥ria vista pelo cinema‚Äù
 
-A Noticia 01/04/2000 Anexo ìUma manh„ para o Cinema Catarinenseî
+A Noticia 01/04/2000 Anexo ‚ÄúUma manh√£ para o Cinema Catarinense‚Äù
 
-A Noticia 25/11/1996 Anexo ìBang Bang no Planalto ñ A volta de Jo„o Amorimî.
+A Noticia 25/11/1996 Anexo ‚ÄúBang Bang no Planalto ‚Äì A volta de Jo√£o Amorim‚Äù.
 
-Di·rio Catarinense 24/20/1996 Variedades ìPintor da HistÛriaî
+Di√°rio Catarinense 24/20/1996 Variedades ‚ÄúPintor da Hist√≥ria‚Äù
 
-Di·rio Catarinense 17/07/1991 Variedades ìTrÍs Catarinense em Gramadoî
+Di√°rio Catarinense 17/07/1991 Variedades ‚ÄúTr√™s Catarinense em Gramado‚Äù
 
-Di·rio Catarinense 26/07/1990 Variedades ìMemÛrias do Desterroî
+Di√°rio Catarinense 26/07/1990 Variedades ‚ÄúMem√≥rias do Desterro‚Äù
 
-Di·rio Catarinense 01/08/1991 Variedades ìKikito na mira dos Catarinensesî
+Di√°rio Catarinense 01/08/1991 Variedades ‚ÄúKikito na mira dos Catarinenses‚Äù
 
-Di·rio Catarinense 20/11/2008 Variedades ìMuito AlÈm da ClassificaÁ„oî
+Di√°rio Catarinense 20/11/2008 Variedades ‚ÄúMuito Al√©m da Classifica√ß√£o‚Äù
 
-Di·rio Catarinense 02/08/2008 Variedades ìNovos olhares catarinasî
+Di√°rio Catarinense 02/08/2008 Variedades ‚ÄúNovos olhares catarinas‚Äù
 
-Di·rio Catarinense 01/04/2007 Variedades ìAntiga pr·tica da caÁa ‡ baleia em dois vÌdeosî
+Di√°rio Catarinense 01/04/2007 Variedades ‚ÄúAntiga pr√°tica da ca√ßa √† baleia em dois v√≠deos‚Äù
 
-Gazeta do Povo 22/07/1992 Cultura G ìTrÍs filmes de Santa Catarina em ExibiÁ„o na Cinematecaî
+Gazeta do Povo 22/07/1992 Cultura G ‚ÄúTr√™s filmes de Santa Catarina em Exibi√ß√£o na Cinemateca‚Äù
 
-Jornal Mural Lages Novembro de 1996 ìO homem sem terra ñ a volta de jo„o amorimî
+Jornal Mural Lages Novembro de 1996 ‚ÄúO homem sem terra ‚Äì a volta de jo√£o amorim‚Äù
 
-O Estado de Santa Catarina 29/04/1990 Caderno 2 ìUm discurso em VHS na defesa da Farra do boiî
+O Estado de Santa Catarina 29/04/1990 Caderno 2 ‚ÄúUm discurso em VHS na defesa da Farra do boi‚Äù
 
 === Da internet: ===
 
@@ -1165,7 +1153,7 @@ http://www.produtorapangeia.blogspot.com
 
 http://www.tacfilmes.wordpress.com
 
-http://www.conjuraÁ„o.com.br
+http://www.conjura√ß√£o.com.br
 
 http://www.faganello.com.br
 
@@ -1173,7 +1161,7 @@ http://www.exatosegundo.com.br
 
 http://www.pintosugeira.com.br
 
-=== ReferÍncias: ===
+=== Refer√™ncias: ===
 
  {{reflist}}
 

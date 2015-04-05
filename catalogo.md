@@ -44,13 +44,13 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 
 == Grupo Sul 1956 e 1968 ==
 
-! width=4% | Ano
-! width=20% | Filme
-! width=11% | Diretor
-! width=9% | Gênero
-! width=6% | Formato
-! width=11% | Local de Produção
-! width=10% | Produtor
+| Ano
+| Filme
+| Diretor
+| Gênero
+| Formato
+| Local de Produção
+| Produtor
 | 1958 | O Preço da Ilusão | Nilton Nascimento | Ficção | 35 mm | Florianópolis | Armando Carreirão
 
 * “Carreirão começou, então, a produzir filmes publicitários (...) de bailes de debutantes, visitas de autoridades, jogas de futebol, concursos de beleza e outros acontecimentos. O principla cliente de trabalhos de divulgação erro o Governo do Estado. Foram feitas 180 produções, de 1958 a 1970. Todos os filmes eram produzidos em Santa Catarina e revelados, montados e mixados em São Paulo (...).”<ref name=ZecaPires4>{{Cite book| last =PIRES | first =José Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =52 |  year =1987| postscript =<!--None-->}}</ref>
@@ -60,13 +60,13 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 === Hassis ===
 
 *“Suas experiências estéticas com cinema começaram em 1964, quando adquiriu um equipamento 8 mm para filmear sua família. Três anos mais tarde ele comprou o equipamento Super 8 e começou a filmar Florianópolis. Estas imagens dão origem ao seu primeiro filme “Retalhos”. As incursos de Hassis no cinema geram 7 curtas metragens, que vão da alegoria à animação”<ref name=ZecaPires6>{{Cite book| last =PIRES | first =José Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina | publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =67 |  year =1987 | postscript =<!--None-->}}</ref>
-! width=4% | Ano
-! width=22% | Filme
-! width=17% | Diretor
-! width=7% | Gênero
-! width=6% | Formato
-! width=10% | Local de Produção
-! width=30% | Notas
+| Ano
+| Filme
+| Diretor
+| Gênero
+| Formato
+| Local de Produção
+| Notas
 | 1969 | No Elevador | Rodrigo de Haro | Experimental | 16 mm | Florianópolis |
 | 1969 | Novelo | Pedro  Paulo Souza | Ficção | 16 mm | Florianópolis |
 | 1970 | Batucada | Hiedy de Assis Corrêa Hassis | Experimental | Super 8 | Florianópolis |
@@ -81,13 +81,13 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 
 == Cinema Universitário dos anos 80 ==
 
-! width=4% | Ano
-! width=22% | Filme
-! width=30% | Diretor
-! width=7% | Gênero
-! width=6% | Formato
-! width=12% | Local de Produção
-! width=15% | Produtora
+| Ano
+| Filme
+| Diretor
+| Gênero
+| Formato
+| Local de Produção
+| Produtora
 | 1980 | Blunn, O desafio de uma raça | Gilson Giehl | Ficção | Super 8 | Oeste de Santa Catarina |
 | 1980 | Jeruza do Mar | Ody Fraga | Ficção | 35mm | Florianópolis |
 | 1984 | Diário de um ladrão | Nina Lúcia Viegas | Ficção | Super 8 | Florianópolis |
@@ -113,28 +113,28 @@ A Retomada do Cinema em Santa Catarina é considerada a partir do lançamento do
 
 === Longa-metragens ===
 
-! width=4% | Ano
-! width=20% | Filme
-! width=17% | Diretor
-! width=7% | Gênero
-! width=5% | Formato
-! width=10% | Local de Produção
-! width=12% | Produtora
-! width=25% | Financiamento e Festivais
+| Ano
+| Filme
+| Diretor
+| Gênero
+| Formato
+| Local de Produção
+| Produtora
+| Financiamento e Festivais
 | 1996 | Homem sem terra - A volta de João Amorim | Francisco Cavalcanti | Ficção | 35 mm | Lages | |
 | 1997 | Shuim, O Grande Dragão Rosa | Cristiano Popov Zambias | Ficção | 35 mm | Chapecó | Conspiração Trash Produções |
 | 1999 | Cruz e Sousa o poeta do Desterro | Sylvio Back | Ficção | 35 mm | Blumenau | |
 
 === Curta e Média-metragens ===
 
-! width=4% | Ano
-! width=20% | Filme
-! width=17% | Diretor
-! width=7% | Gênero
-! width=5% | Formato
-! width=10% | Local de Produção
-! width=12% | Produtora
-! width=25% | Financiamento e Festivais
+| Ano
+| Filme
+| Diretor
+| Gênero
+| Formato
+| Local de Produção
+| Produtora
+| Financiamento e Festivais
 | 1990 | Manhã | Zeca Pires e Norberto Despizzolatti | Ficção | 35 mm | Florianópolis | | Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique - Suiça
 Selecionado para o Festival do Nuevo Cine Latinoamericano de 1991, em Havana - Cuba
 14º Guarnicê de Cinema e Video, em São Luís (MA) - Prêmio de Melhor Filme do Juri Popular
@@ -176,14 +176,14 @@ Exibido no 2º Catavídeo
 
 === Longa-metragens ===
 
-! width=4% | Ano
-! width=20% | Filme
-! width=17% | Diretor
-! width=7% | Gênero
-! width=5% | Formato
-! width=10% | Local de Produção
-! width=12% | Produtora
-! width=25% | Financiamento e Festivais
+| Ano
+| Filme
+| Diretor
+| Gênero
+| Formato
+| Local de Produção
+| Produtora
+| Financiamento e Festivais
 | 2004 | Procuradas | Zeca Pires e José Frazão | Ficção | 35 mm | Florianópolis | Imagem Filmes, Mundo Imaginário Produções |
 | 2006 | Seo Chico - Um Retrato | José Rafael Mamigonian | Documentário | 35 mm | Florianópolis |  |  Contemplado pelo Prêmio Catarinense de Cinema FCC 2001
 Prêmio de Melhor Fotografia - XV Cine Ceará
@@ -197,14 +197,14 @@ Prêmio especial do Juri – Forumdoc.bh 2005
 
 === Curta e Média-metragens ===
 
-! width=4% | Ano
-! width=20% | Filme
-! width=17% | Diretor
-! width=7% | Gênero
-! width=5% | Formato
-! width=10% | Local de Produção
-! width=12% | Produtora
-! width=25% | Financiamento e Festivais
+| Ano
+| Filme
+| Diretor
+| Gênero
+| Formato
+| Local de Produção
+| Produtora
+| Financiamento e Festivais
 | 2001 | Alma açoriana | Penna Filho | Documentário | 16 mm | Florianópolis | Penna Filho Produções |
 | 2001 | A Canção e o Chimarrão | Conjuração Trash | | | Chapecó | |
 | 2001 | Ilha | Zeca Pieres | Ficção | 35 mm | Florianópolis | |

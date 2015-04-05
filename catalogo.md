@@ -18,7 +18,6 @@ Existem poucos registros acerca do primeiro filme produzido em Santa Catarina. S
 | Ano | Filme | Diretor | Gênero | Formato | Local de Produção | Produtora |
 | --- | ----- | ------- | ------ | ------- | ----------------- | --------- |
 | 1925 | 75 anos de Blumenau - 9ª C. Metralhadora | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme |
-
 | 1925 | O jubileu do 75º aniversário da Fundação de Blumenau no dia 15 de novembro de 1925 | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
 | 1926 | Centenário de São José | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
 | 1926 | Chegada do Príncipe de Orleans e Bragança a Joinville | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme

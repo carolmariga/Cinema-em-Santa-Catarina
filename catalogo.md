@@ -1,6 +1,6 @@
-Lista e histórico da produção de cinema realizado no estado de [[Santa Catarina]], [[Brasil]].
+### Lista e histórico da produção de cinema realizado no estado de [[Santa Catarina]], [[Brasil]].
 
-== Primeiro Cinema 1900 a 1920 ==
+#### Primeiro Cinema 1900 a 1920
 
 Existem poucos registros acerca do primeiro filme produzido em Santa Catarina. Sabe-se apenas das vistas, como sinaliza Zeca Pires em seu livro O cinema em Santa Catarina:
 
@@ -11,7 +11,7 @@ Existem poucos registros acerca do primeiro filme produzido em Santa Catarina. S
 | 1900 | Vista de Brusque, Itajaí e arredores | Documentário | 35 mm
 | 1901 | Vista de Santa Catarina | Documentário | 35 mm
 
-== Cinema de Cavação 1921 a 1930 ==
+#### Cinema de Cavação 1921 a 1930
 
 * “De posse de uma filmadora de 35 mm, Baumgarten mesmo, revelava e copiava seus filmes (...). Geralmente documentários sobre acontecimentos políticos e sociais (...).”<ref name=ZecaPires2>{{Cite book| last =PIRES | first =José Henrique Nunes |publication-date =2000| title =Cinema e História: José Julianelli e Alfredo Baumgarten, pioneiros do cinema catarinense| publisher =Blumenau: Edifurb | page =32 |year =2000| postscript =<!--None-->}}</ref>
 
@@ -30,28 +30,28 @@ Existem poucos registros acerca do primeiro filme produzido em Santa Catarina. S
 | 1929 | Os festejos do Centenário da Colonização Alemã em São Pedro de Alcântara e São José | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
 | 1930 | A Grande Parada da Força Pública Estadual | J.J. Gomes | Documentário | 35 mm | Florianópolis |
 
-== A Baronesa e outras produções 1930 a 1955 ==
+#### A Baronesa e outras produções 1930 a 1955
 
 No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla von Wangenheim, a Baronesa, com imagens da cidade de Florianópolis ao final dos anos 30.
 
 *“Filmes em 16 mm feitos por Edla von Wangenheim ajudam a conhecer a cidade de Florianópolis do final dos anos 30 e início dos anos 40. O material foi recuperado pelo projeto Marint, do Curso de Jornalismo da UFSC. (...) Os rolos com três minutos de cenas (em média) cada um mostram algumas cidades catarinenses e principalmente a Ilha de Santa Catarina, em Florianópolis. (...) E a riqueza dos filmes de Edla está presente no cotidiano que retratou. As festas de páscoa, das crianças da família, os passeios pela Ilha, o final de uma caça à baleia na praia da Armação do Pântano do Sul, enfim, a vida da família no final dos anos 30 e início dos 40.”<ref name=Crocomo>{{Cite book| last =CROCOMO | first =Fernando Antonio | last2 =TASSO NETO | first2 =Luiz | last3 =WANGENHEIM | first3 =Aldo von |publication-date =2004| title =A descoberta de filmes em 16 mm recupera a memória de Florianópolis do final dos anos 30 e 40, estimula a participação da comunidade em programas de TV e revela a primeira cineasta catarinense| publisher =Porto Alegre: Congresso Brasileiro de Ciências da Comunicação – Intercom | page =1 e 2 |  year =2004| postscript =<!--None-->}}</ref>
 
-=== Willy Sievert ===
+##### Willy Sievert
 
 *“Já em 1952, influenciado por um amigo, adquiriu sua primeira filmadora, uma Keystone. Depois com uma Polaroid Bolex produziu até 1983 cerca de 62 jornais de Blumenau em rolos de 400 pés, com vinte minutos de duração e diversos filmes sobre acontecimentos locais. Willy Sievert registrou desde 1952, quase todos os fatos locais de sua cidade, Blumenau, em filmes mudos de 16 mm.”<ref name=ZecaPires3>{{Cite book| last =PIRES | first =José Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =33 |  year =1987| postscript =<!--None-->}}</ref>
 *“Ele mesmo, sempre com uma filmadora 16 mm na mão, filmou os principais acontecimentos ocorridos em Blumenau na segunda metade do século 20. Foram desfiles de 7 de setembro, enchentes, visitantes ilustres, festas da cerveja e tudo que pudesse ser registrado nos famosos ‘cinejornais’ do ‘seu Willy’.  Ele chegou a filmar o incêndio de um navio petroleiro em Itajaí, uma tragédia que deixou o Estado inteiro assustado. Embora fossem mudos, estes filmes em sua maioria eram coloridos e constituem hoje em dia um registro muito importante da história do município.”<ref name=Mueller>{{Cite book| last =MUELLER | first =Carlos Braga |publication-date =2010| title =O Cinema em Blumenau| publisher =Florianopolis: Sem Editora |  year =2010| postscript =<!--None-->}}</ref>
 
-== Grupo Sul 1956 e 1968 ==
+#### Grupo Sul 1956 e 1968
 
 | Ano | Filme | Diretor | Gênero | Formato | Local de Produção | Produtor |
 | --- | ----- | ------- | ------ | ------- | ----------------- | -------- |
 | 1958 | O Preço da Ilusão | Nilton Nascimento | Ficção | 35 mm | Florianópolis | Armando Carreirão
 
 * “Carreirão começou, então, a produzir filmes publicitários (...) de bailes de debutantes, visitas de autoridades, jogas de futebol, concursos de beleza e outros acontecimentos. O principla cliente de trabalhos de divulgação erro o Governo do Estado. Foram feitas 180 produções, de 1958 a 1970. Todos os filmes eram produzidos em Santa Catarina e revelados, montados e mixados em São Paulo (...).”<ref name=ZecaPires4>{{Cite book| last =PIRES | first =José Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =52 |  year =1987| postscript =<!--None-->}}</ref>
-== Guca 1969 a 1979 ==
+#### Guca 1969 a 1979
 
 *“Entusiasmados com a receptividade obtida pelo ‘Novelo’, os integrantes do GUCA produziram um curtíssima metragem. ‘A vida é curta e ...’, onde ‘ besta’ ocuparia o lugar das reticências. Uma crítica ao casamento burguês.”<ref name=ZecaPires5>{{Cite book| last =PIRES | first =José Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina| publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =58 |  year =1987| postscript =<!--None-->}}</ref>
-=== Hassis ===
+##### Hassis
 
 *“Suas experiências estéticas com cinema começaram em 1964, quando adquiriu um equipamento 8 mm para filmear sua família. Três anos mais tarde ele comprou o equipamento Super 8 e começou a filmar Florianópolis. Estas imagens dão origem ao seu primeiro filme “Retalhos”. As incursos de Hassis no cinema geram 7 curtas metragens, que vão da alegoria à animação”<ref name=ZecaPires6>{{Cite book| last =PIRES | first =José Henrique Nunes | last2 =DEPIZZOLATTI | first2 =Norberto Verani | last3 =ARAUJO | first3 =Sandra Mara de |publication-date =1987| title =O Cinema em Santa Catarina | publisher =Florianopolis: Ed. da UFSC; [Rio de Janeiro]: EMBRAFILME | page =67 |  year =1987 | postscript =<!--None-->}}</ref>
 
@@ -69,7 +69,7 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 | 1978 | Fpolis Era | Hiedy de Assis Corrêa Hassis | Ficção | Super 8 | Florianópolis |
 | 1979 | A Dança do Boi | Hiedy de Assis Corrêa Hassis | Animação | Super 8 | Florianópolis |
 
-== Cinema Universitário dos anos 80 ==
+#### Cinema Universitário dos anos 80
 
 | Ano | Filme | Diretor | Gênero | Formato | Local de Produção | Produtora |
 | --- | ----- | ------- | ------ | ------- | ----------------- | --------- |
@@ -92,11 +92,11 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 | 1987 | João Brasil | Zeca Pires | Ficção | Super 8 | Florianópolis |
 | 1987 | Uma Administração | Desconhecido | Documentário | 16 mm | Chapecó  |
 
-== A Retomada em SC ==
+#### A Retomada em SC
 
 A Retomada do Cinema em Santa Catarina é considerada a partir do lançamento do filme Manhã, de Zeca Pires, em 1990 e se encerra com o lançamento do primeiro “Edital Cinemateca Catarinense FCC” (que mais tarde fora renomeado para “Prêmio Catarinense de Cinema FCC”) em 2001.
 
-=== Longa-metragens ===
+##### Longa-metragens
 
 | Ano | Filme | Diretor | Gênero | Formato | Local de Produção | Produtora | Financiamento e Festivais |
 | --- | ----- | ------- | ------ | ------- | ----------------- | --------- | ------------------------- |
@@ -104,7 +104,7 @@ A Retomada do Cinema em Santa Catarina é considerada a partir do lançamento do
 | 1997 | Shuim, O Grande Dragão Rosa | Cristiano Popov Zambias | Ficção | 35 mm | Chapecó | Conspiração Trash Produções |
 | 1999 | Cruz e Sousa o poeta do Desterro | Sylvio Back | Ficção | 35 mm | Blumenau | |
 
-=== Curta e Média-metragens ===
+##### Curta e Média-metragens
 
 | Ano | Filme | Diretor | Gênero | Formato | Local de Produção | Produtora | Financiamento e Festivais |
 | --- | ----- | ------- | ------ | ------- | ----------------- | --------- | ------------------------- |
@@ -138,9 +138,9 @@ A Retomada do Cinema em Santa Catarina é considerada a partir do lançamento do
 | 2000 | Madre Paulina | Chico Faganello | Documentário | Vídeo | Florianópolis | |
 | 2000 | Mergulhando em Bombinhas | Leandro Rangel | Documentário | Super 8 | Florianópolis | |
 
-== Cinema Contemporâneo ==
+#### Cinema Contemporâneo
 
-=== Longa-metragens ===
+##### Longa-metragens
 
 | Ano | Filme | Diretor | Gênero | Formato | Local de Produção | Produtora | Financiamento e Festivais |
 | --- | ----- | ------- | ------ | ------- | ----------------- | --------- | ------------------------- |
@@ -153,7 +153,7 @@ A Retomada do Cinema em Santa Catarina é considerada a partir do lançamento do
 | 2008 | Sistema de Animação | Guilherme Ledoux e Alan Langdon | Documentário | Vídeo | Florianópolis |  |
 | 2009 | Maciço | Pedro MC | Documentário | Vídeo | Florianópolis| | Contemplado pelo Prêmio Cinemateca Catarinense FCC 2005
 
-=== Curta e Média-metragens ===
+##### Curta e Média-metragens
 
 | Ano | Filme | Diretor | Gênero | Formato | Local de Produção | Produtora | Financiamento e Festivais |
 | --- | ----- | ------- | ------ | ------- | ----------------- | --------- | ------------------------- |
@@ -530,9 +530,9 @@ A Retomada do Cinema em Santa Catarina é considerada a partir do lançamento do
 |  | Wara Feelin | Gustavo Cacciorro | Experimental | Vídeo | Florianópolis |  |
 | | X | Simone Bastos | Experimental | Vídeo | Florianópolis |  |
 
-== Bibliografia ==
+#### Bibliografia
 
-=== Publicações: ===
+##### Publicações:
 
 ARAÚJO, Vicente de Paula. A bela época do cinema brasileiro. 2.ed. São Paulo: Perspectiva, 1985.
 
@@ -564,7 +564,7 @@ Acervo do Catavideo (9º ,10º ,11º)
 
 Banco de Dados da Cinemateca Brasileira – Filmografia Brasileira
 
-=== Jornal: ===
+##### Jornal:
 
 A Notícia 11/03/2007 Anexo “Coletânea de filmes do blumenauense Alfredo Baumgarten é exibida na Cinemateca Brasileira”
 
@@ -602,7 +602,7 @@ Jornal Mural Lages Novembro de 1996 “O homem sem terra – a volta de joão am
 
 O Estado de Santa Catarina 29/04/1990 Caderno 2 “Um discurso em VHS na defesa da Farra do boi”
 
-=== Da internet: ===
+##### Da internet:
 
 http://galaxy.intercom.org.br:8180/dspace/bitstream/1904/16887/1/R0638-2.pdf
 
@@ -628,7 +628,7 @@ http://www.exatosegundo.com.br
 
 http://www.pintosugeira.com.br
 
-=== Referências: ===
+##### Referências:
 
  {{reflist}}
 

@@ -109,13 +109,8 @@ A Retomada do Cinema em Santa Catarina é considerada a partir do lançamento do
 
 | Ano | Filme | Diretor | Gênero | Formato | Local de Produção | Produtora | Financiamento e Festivais |
 | --- | ----- | ------- | ------ | ------- | ----------------- | --------- | ------------------------- |
-| 1990 | Manhã | Zeca Pires e Norberto Despizzolatti | Ficção | 35 mm | Florianópolis | | Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique - Suiça
-Selecionado para o Festival do Nuevo Cine Latinoamericano de 1991, em Havana - Cuba
-14º Guarnicê de Cinema e Video, em São Luís (MA) - Prêmio de Melhor Filme do Juri Popular
-Exibido no 18º Festival de Cinema Brasileira de Gramado
-| 1990 | O Vôo Solitário | Chico Faganello | Documentário | 16 mm | Florianópolis | | Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique – Suiça
-18ª Jornada Internacional de Cinema e Vídeo da Bahia
-19º Festival de Cinema de Gramado
+| 1990 | Manhã | Zeca Pires e Norberto Despizzolatti | Ficção | 35 mm | Florianópolis | | Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique - Suiça <br /> Selecionado para o Festival do Nuevo Cine Latinoamericano de 1991, em Havana - Cuba <br /> 14º Guarnicê de Cinema e Video, em São Luís (MA) - Prêmio de Melhor Filme do Juri Popular <br /> Exibido no 18º Festival de Cinema Brasileira de Gramado
+| 1990 | O Vôo Solitário | Chico Faganello | Documentário | 16 mm | Florianópolis | | Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique – Suiça <br />18ª Jornada Internacional de Cinema e Vídeo da Bahia <br /> 19º Festival de Cinema de Gramado
 | 1991 | A Revoada da Gralha | Lena Bastos e Cleide Albuquerque | | | Florianópolis | | Exibido no 18ª Jornada Internacional da Cinema e Video da Bahia
 | 1992 | Desterro | Eduardo Paredes | Ficção | 35 mm | Florianópolis | Usina Press Vídeo Produções Cinematográficas Ltda. | Indicado a Melhor Fotografia (1992) Festival de Cinema Brasileiro de Gramado
 | 1992 | Farra do Boi | Zeca Pires e Norberto Depizzolatti | Documentário | 16 mm | | | Exibido pelo Clube Brasileiro de Zurique no Filmopodium, em Zurique - Suiça
@@ -126,8 +121,7 @@ Exibido no 18º Festival de Cinema Brasileira de Gramado
 | 1996 | Cartas Italianas | Chico Faganello | Documentário | | Florianópolis | |
 | 1996 | Ponte Hercílio Luiz: Patrimônioi da Humanidade | Zeca Pires | Documentário | 35 mm | Florianópolis | Mundo Imaginário Produções; Penna Filho Produções Cinematográficas | Selecionado para o 24º Festival de Cinema Brasileiro de Gramado
 | 1996 | Ritinha | Antonio Celso dos Santos | Ficção | 35 mm | Florianópolis | Grua Produções Audiovisuais |
-| 1996 | Victor Meirelles: Quadros da Hstória | Penna Filho | Ficção | 35 mm | Florianópolis | Adalberto Penna Produções Cinematográficas | Selecionado para o 29º Festival de Brasilia do Cinema Brasileiro
-Selecionado para o 24º Festival de Cinema Brasileiro de Gramado
+| 1996 | Victor Meirelles: Quadros da Hstória | Penna Filho | Ficção | 35 mm | Florianópolis | Adalberto Penna Produções Cinematográficas | Selecionado para o 29º Festival de Brasilia do Cinema Brasileiro <br /> Selecionado para o 24º Festival de Cinema Brasileiro de Gramado
 | 1997 | Arquitetura | Luiza Lins e Ligia Walper | Documentário |  | Florianópolis |  |
 | 1998 | Bruxa Viva | Lena Bastos | Ficção | 35 mm | Florianópolis | |
 | 1998 | Experimentando | André Bob Barbosa | Documentário | Vídeo | Florianópolis | | Vencedor do Prêmio do Festival Internacional do Making Of 1999 – Categoria Universitário
@@ -139,8 +133,7 @@ Selecionado para o 24º Festival de Cinema Brasileiro de Gramado
 | 1999 | Irmãos Canozzi - A história que virou lenda | Fernando de Oliveira Leão | Ficção | | Itajaí | |
 | 1999 | Mulheres de Palavras | Katia Klock e Maurício Venturi | Documentário | Vídeo | Florianópolis | |
 | 2000 | Amálgama | Direção coletiva | Experimental | 16 mm | Florianópolis | |
-| 2000 | Em Busca da Saleira Perdida | Equipe Pintô Sujeira | Ficção | Vídeo | Florianópolis | | Exibido no 4º Florianópolis Audiovisual Mercosul
-Exibido no 2º Catavídeo
+| 2000 | Em Busca da Saleira Perdida | Equipe Pintô Sujeira | Ficção | Vídeo | Florianópolis | | Exibido no 4º Florianópolis Audiovisual Mercosul <br /> Exibido no 2º Catavídeo
 | 2000 | Féndô - Tributo a uma guerreira | Penna FIlho | Documentário | Vídeo | | | Melhor Vídeo Educativo no I Festival da Terra, 2000, em Brasília, promovido pela CONTAG, e Menção Honrosa no 7º CineEco (Serra da Estrela, Portugal)
 | 2000 | A Fuga | Conjuração Trash |  | Vídeo | Chapecó | |
 | 2000 | Madre Paulina | Chico Faganello | Documentário | Vídeo | Florianópolis | |
@@ -153,9 +146,7 @@ Exibido no 2º Catavídeo
 | Ano | Filme | Diretor | Gênero | Formato | Local de Produção | Produtora | Financiamento e Festivais |
 | --- | ----- | ------- | ------ | ------- | ----------------- | --------- | ------------------------- |
 | 2004 | Procuradas | Zeca Pires e José Frazão | Ficção | 35 mm | Florianópolis | Imagem Filmes, Mundo Imaginário Produções |
-| 2006 | Seo Chico - Um Retrato | José Rafael Mamigonian | Documentário | 35 mm | Florianópolis |  |  Contemplado pelo Prêmio Catarinense de Cinema FCC 2001
-Prêmio de Melhor Fotografia - XV Cine Ceará
-Prêmio especial do Juri – Forumdoc.bh 2005
+| 2006 | Seo Chico - Um Retrato | José Rafael Mamigonian | Documentário | 35 mm | Florianópolis |  |  Contemplado pelo Prêmio Catarinense de Cinema FCC 2001 <br /> Prêmio de Melhor Fotografia - XV Cine Ceará <br /> Prêmio especial do Juri – Forumdoc.bh 2005
 | 2006 | Outra Memória | Chico Faganello | Ficção | Vídeo | Florianópolis; Blumenau |  |
 | 2006 | Um craque chamado Divino | Penna Filho | Documentário | 35 mm | Florianópolis |  |
 | 2007 | Luiz Henrique - No Balanço do Mar | Ieda Beck | Documentário | | Florianópolis | |
@@ -222,8 +213,7 @@ Prêmio especial do Juri – Forumdoc.bh 2005
 | 2005 | Curta Ilha | Rafael Favaretto Schlichting | Ficção | Vídeo | Florianópolis | Câmera Olho Filmes e Produções |
 | 2005 | Do Abismo os Horrores | Marco Martins | Experimental | Vídeo | Florianópolis | |
 | 2005 | O Espelho | Flavia de Mello Zancheta | Documentário | Vídeo | Florianópolis | | Contemplado pelo Prêmio Catarinense de Cinema FCC 2002
-| 2005 | O Fim do Mundo - Flashback Society | Alan Langdon e Guilherme Ledoux | Ficção | Vídeo | Florianópolis | | Exibido no 7º Catavideo
-Exibido no Florianópolis Audiovisual Mercosul 2006
+| 2005 | O Fim do Mundo - Flashback Society | Alan Langdon e Guilherme Ledoux | Ficção | Vídeo | Florianópolis | | Exibido no 7º Catavideo <br /> Exibido no Florianópolis Audiovisual Mercosul 2006
 | 2005 | Final Feliz | Thiago Machado | Ficção | Vídeo | Florianópolis | | Exibido no Florianópolis Audiovisual Mercosul 2005
 | 2005 | Flor de Pessegueiro | Angela Bastos | Documentário | Vídeo | Florianópolis | | Contemplado pelo Edital Armando Carreirão (FUNCINE)
 | 2005 | Hassis - um autoretrato imaginado - uma autobiografia inventada | Marco Martins e Ricardo Weschenfelder | Ficção | Vídeo | Florianópolis | |
@@ -273,9 +263,7 @@ Exibido no Florianópolis Audiovisual Mercosul 2006
 | 2006 | Raízes açorianas | Carolina Coral | Documentário | Vídeo | Florianópolis |  |
 | 2006 | O retrato de Doriana extra cremosa com sal | Alan Langdon | Experimental | Vídeo |  |  |
 | 2006 | Se fosse assim era pra ser | Betina Humeres | Ficção | Vídeo | Florianópolis |  |
-| 2006 | Seo Chico - Um Retrato | JOsé Rafael Mamigonian | Documentário | 35 mm | Florianópolis |  |  Contemplado pelo Prêmio Catarinense de Cinema FCC 2001
-Prêmio de Melhor Fotografia - XV Cine Ceará
-Prêmio especial do Juri – Forumdoc.bh 2005
+| 2006 | Seo Chico - Um Retrato | JOsé Rafael Mamigonian | Documentário | 35 mm | Florianópolis |  |  Contemplado pelo Prêmio Catarinense de Cinema FCC 2001 <br /> Prêmio de Melhor Fotografia - XV Cine Ceará <br /> Prêmio especial do Juri – Forumdoc.bh 2005
 | 2006 | Sinestesia | Paulo Maisatto | Ficção | Vídeo | Florianópolis |  |
 | 2006 | Stormental European Tour 2006 | Alexei Leão, Andrei Leão, Marcos Feminella, Rafael Scopel | Documentário | Vídeo | Florianópolis |  |
 | 2006 | Tresperimento | Adriana Cunha, Diogo Vaz Franco e Maria Carolina Vieira | Experimental | Vídeo | Florianópolis |  |
@@ -313,17 +301,14 @@ Prêmio especial do Juri – Forumdoc.bh 2005
 | 2007 | Luiz Henrique - No Balanço do Mar | Ieda Beck | Documentário | | Florianópolis | |
 | 2007 | Mar de Dentro | Paschoal Samora | Documentário | 35 mm | Florianópolis | Terra de Ninguém Filmes; Mixer |
 | 2007 | Mercado de Histórias - A construção do Mercado na memória popular de Florianópolis | Bianca Chiaradia | Documentário | Vídeo | Florianópolis | | Contemplado pelo Edital Armando Carreirão (FUNCINE) 2005
-| 2007 | O Mistério do Boi de Mamão | Luiza de Luz Lins | Ficção | Vídeo | Florianópolis | | Vencedor do Edital Curta Criança do Ministério da Cultura em 2004
-Exibido na 5ª Mostra de Cinema Infantil de Florianópolis
+| 2007 | O Mistério do Boi de Mamão | Luiza de Luz Lins | Ficção | Vídeo | Florianópolis | | Vencedor do Edital Curta Criança do Ministério da Cultura em 2004 <br /> Exibido na 5ª Mostra de Cinema Infantil de Florianópolis
 | 2007 | Minésia | Oscar R. Junior | Ficção | Vídeo | Florianópolis | |
 | 2007 | Momentos de Lugar Algum | Paulo Maisatto e Maira Corrêa | Documentário | Vídeo | Florianópolis | |
 | 2007 | Mosaico de Histórias de Amor | Renato Turnes | Ficção | Vídeo | Florianópolis | | Exibido no 9º Catavideo
 | 2007 | A Mudança de Pedro, Paula | Fernanda Fraiz | Experimental | Vídeo | Florianópolis | |
 | 2007 | Ojos Negros | Yanina Paralta | Ficção | Vídeo | Florianópolis |  |
 | 2007 | Olhar de um Cineasta | César Cavalcanti | Documentário | Vídeo | Florianópolis |  |
-| 2007 | Ouroboro | Maurício Antonângelo | Ficção | Vídeo | Florianópolis |  | Exibido no 41º Festival de Brasília
-Exibido no Festival Internacional de Curta-metragens de São Paulo de 2008
-Exibido no FAM 2008
+| 2007 | Ouroboro | Maurício Antonângelo | Ficção | Vídeo | Florianópolis |  | Exibido no 41º Festival de Brasília <br /> Exibido no Festival Internacional de Curta-metragens de São Paulo de 2008 <br /> Exibido no FAM 2008
 | 2007 | Palco | Paulo Henrique dos Santos Souza | Ficção | Vídeo | Florianópolis |  |
 | 2007 | A Parte | Lucas Alves e José Manuel Sappino |  | Vídeo |  |  |
 | 2007 | Perseguições de uma outra guerra | Beto e Lallo Bocchino | Documentário | Vídeo | Itajaí |  |
@@ -350,8 +335,7 @@ Exibido no FAM 2008
 | 2008 | 9m X 15 | Alejandro Ahmed e Marco Martins | Documentário | Vídeo | Florianópolis | |
 | 2008 | Alice | Paula Pazinato | Ficção | Vídeo | Florianópolis | |
 | 2008 | Amanda e Monick | André da Costa e Pinto | Documentário | | | |
-| 2008 | Aos espanhóis confinantes |   ngelo Clemente Sganzerla | FIcção | 35 mm | Florianópolis | | Contemplado pelo Prêmio Cinemateca Catarinense FCC 2002
-Exibido na 32ª Mostra Internacional de Cinema de São Paulo
+| 2008 | Aos espanhóis confinantes |   ngelo Clemente Sganzerla | FIcção | 35 mm | Florianópolis | | Contemplado pelo Prêmio Cinemateca Catarinense FCC 2002 <br /> Exibido na 32ª Mostra Internacional de Cinema de São Paulo
 | 2008 | Aquário | Cíntia Domit Bittar | Ficção | Vídeo | Florianópolis | |
 | 2008 | Aquífero Guarani, gigante desconhecido | Márcia Paraíso | Documentário | Vídeo | Florianópolis | |
 | 2008 | Black Peace | Diogo Ramon Carpes Alves Vanolli | Ficção | Vídeo | Florianópolis | |
@@ -437,8 +421,7 @@ Exibido na 32ª Mostra Internacional de Cinema de São Paulo
 | 2009 | Que Cheiro de Grama Cortada no Frio | Heitor Caramez | Ficção | Vídeo | Florianópolis |  |
 | 2009 | O Que Ficou de Nós Dois | Munick Polli | Ficção | Vídeo | Florianópolis |  |
 | 2009 | Quimera | Melissa Lipinsky | Ficção | Vídeo | Florianópolis |  |
-| 2009 | Se eu morresse amanhã | Ricardo Weschenfelder | Ficção | 35 mm | Florianópolis |  | Contemplado pelo Prêmio Cinemateca Catarinense FCC 2007
-Exibido no Florianópolis Audiovisual Mercosul 2009
+| 2009 | Se eu morresse amanhã | Ricardo Weschenfelder | Ficção | 35 mm | Florianópolis |  | Contemplado pelo Prêmio Cinemateca Catarinense FCC 2007 <br /> Exibido no Florianópolis Audiovisual Mercosul 2009
 | 2009 | Sem Palavras | Katia Klock | Documentário | Vídeo | Florianópolis |  | Contemplado pelo Prêmio Catarinense de Cinema FCC 2007
 | 2009 | Sereia | Rodrigo Amboni | Animação | Vídeo | Florianópolis |  |
 | 2009 | Tanto | Nataly Callai | Ficção | Vídeo | Florianópolis |  |
@@ -449,8 +432,7 @@ Exibido no Florianópolis Audiovisual Mercosul 2009
 | 2009 | Uma tarrafa para Cascaes | Fancis Silvy | Documentário | Vídeo | Florianópolis |  |
 | 2010 | Anomalia | Luiz Henrique Lima Sebastião | Ficção | Vídeo | Palhoça | |
 | 2010 | Ballet das coisas | Bruna Granucci | Ficção | Vídeo | Florianópolis | |
-| 2010 | Beijo de Arame Farpado | Marco Martins | Ficção | 35 mm | Florianópolis | | Contemplado no Prêmio Catarinense de Cinema FCC 2007
-Exibido no FAM 2010
+| 2010 | Beijo de Arame Farpado | Marco Martins | Ficção | 35 mm | Florianópolis | | Contemplado no Prêmio Catarinense de Cinema FCC 2007 <br /> Exibido no FAM 2010
 | 2010 | Contra Pêlos | Danilo Seeman | Ficção | Vídeo | Florianópolis | |
 | 2010 | Ein Prosit! | Guto Lima | Documentário | 35 mm | Florianópolis |  | Contemplado pelo Prêmio Catarinense de Cinema FCC 2008
 | 2010 | Enquanto Isso | Chico Nascimento | Animação | Vídeo | Palhoça | |

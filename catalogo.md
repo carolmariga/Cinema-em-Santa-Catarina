@@ -1,4 +1,4 @@
-### Lista e histórico da produção de cinema realizado no estado de [[Santa Catarina]], [[Brasil]].
+### Lista e histórico da produção de cinema realizado no estado de Santa Catarina, Brasil.
 
 #### Primeiro Cinema 1900 a 1920
 

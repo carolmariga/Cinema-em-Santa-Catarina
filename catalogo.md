@@ -19,16 +19,16 @@ Existem poucos registros acerca do primeiro filme produzido em Santa Catarina. S
 | --- | ----- | ------- | ------ | ------- | ----------------- | --------- |
 | 1925 | 75 anos de Blumenau - 9ª C. Metralhadora | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme |
 
-| 1925 | O jubileu do 75º aniversário da Fundação de Blumenau no dia 15 de novembro de 1925 | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme 
-| 1926 | Centenário de São José | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme 
-| 1926 | Chegada do Príncipe de Orleans e Bragança a Joinville | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme 
-| 1926 | Inauguração da Ponte Hercílio Luz | José Julianelli | Documentário | 35 mm | Florianópolis | Universum Filme 
-|- 
-| 1926 | Inauguração da Ponte de Indaial | José Julianelli | Documentário | 35 mm | Indaial | Universum Filme 
-| 1926 | O Progresso de Blumenau | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme 
-| 1926 | Recepção à chegada em Blumenau do Ilustríssimo Dr. Adolpho Konder digno futuro governador do Estado de Santa Catarina | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme 
-| 1928 | Washington Luis em Joinville | José Julianelli | Documentário | 35 mm | Joinville | Universum Filme 
-| 1929 | Alfredo Baumgarten | Alfredo Baumgarten | Documentário | 35 mm | Florianópolis | 
+| 1925 | O jubileu do 75º aniversário da Fundação de Blumenau no dia 15 de novembro de 1925 | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
+| 1926 | Centenário de São José | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
+| 1926 | Chegada do Príncipe de Orleans e Bragança a Joinville | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
+| 1926 | Inauguração da Ponte Hercílio Luz | José Julianelli | Documentário | 35 mm | Florianópolis | Universum Filme
+|-
+| 1926 | Inauguração da Ponte de Indaial | José Julianelli | Documentário | 35 mm | Indaial | Universum Filme
+| 1926 | O Progresso de Blumenau | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
+| 1926 | Recepção à chegada em Blumenau do Ilustríssimo Dr. Adolpho Konder digno futuro governador do Estado de Santa Catarina | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
+| 1928 | Washington Luis em Joinville | José Julianelli | Documentário | 35 mm | Joinville | Universum Filme
+| 1929 | Alfredo Baumgarten | Alfredo Baumgarten | Documentário | 35 mm | Florianópolis |
 | 1929 | Os festejos do Centenário da Colonização Alemã em São Pedro de Alcântara e São José | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
 | 1930 | A Grande Parada da Força Pública Estadual | J.J. Gomes | Documentário | 35 mm | Florianópolis |
 |}
@@ -95,23 +95,23 @@ No final dos anos 90 foram encontrados os rolos de 16 mm pertencentes à Edla vo
 ! width=6% | Formato
 ! width=12% | Local de Produção
 ! width=15% | Produtora
-| 1980 | Blunn, O desafio de uma raça | Gilson Giehl | Ficção | Super 8 | Oeste de Santa Catarina | 
-| 1980 | Jeruza do Mar | Ody Fraga | Ficção | 35mm | Florianópolis | 
-| 1984 | Diário de um ladrão | Nina Lúcia Viegas | Ficção | Super 8 | Florianópolis | 
-| 1984 | Ele nu e cru | Oswaldo Pereira Filho, Liliane Motta da Silveira e Marta Massolini | Ficção | Super 8 | Florianópolis | 
-| 1984 | Infanticídio | Jeanete di Pietro | Ficção | Super 8  | Florianópolis | 
-| 1984 | Nicho Perdido  | Raquel Vieira Wandelli | Ficção | Super 8 | Florianópolis | 
-| 1984 | O Trote Universitário | Zeca Pires e Antonio Carlos Freitas | Ficção | 35 mm | Florianópolis | 
+| 1980 | Blunn, O desafio de uma raça | Gilson Giehl | Ficção | Super 8 | Oeste de Santa Catarina |
+| 1980 | Jeruza do Mar | Ody Fraga | Ficção | 35mm | Florianópolis |
+| 1984 | Diário de um ladrão | Nina Lúcia Viegas | Ficção | Super 8 | Florianópolis |
+| 1984 | Ele nu e cru | Oswaldo Pereira Filho, Liliane Motta da Silveira e Marta Massolini | Ficção | Super 8 | Florianópolis |
+| 1984 | Infanticídio | Jeanete di Pietro | Ficção | Super 8  | Florianópolis |
+| 1984 | Nicho Perdido  | Raquel Vieira Wandelli | Ficção | Super 8 | Florianópolis |
+| 1984 | O Trote Universitário | Zeca Pires e Antonio Carlos Freitas | Ficção | 35 mm | Florianópolis |
 | 1984 | À um passo da morte  | João Eduardo di Pietro | Ficção | Super 8 | Florianópolis |
 | 1985 | Conflito | Mauro Faccioni Filho | Ficção | Super 8 | Florianópolis |
 | 1985 | Ilha Catarina, mulheres e meninas | Lena Bastos | Documentário |   |  |
 | 1986 | Alguns anos depois |  ngelo Clemente Sganzerla | Documentário | Super 8 | Florianópolis |
-| 1986 | Jesus é traído na cruz | Mauro Faccioni FIlho | Ficção | 16 mm | Florianópolis | 
+| 1986 | Jesus é traído na cruz | Mauro Faccioni FIlho | Ficção | 16 mm | Florianópolis |
 | 1987 | Bruxa |  Mauro Faccioni Filho | Documentário | 16 mm | Florianópolis | Ex-Comunicações
 | 1987 | Calibre 12 | João Amorim | Ficção | 35mm | Lages |
-| 1987 | Eis | Mauro Faccioni Filho | Documentário | BP | | 
-| 1987 | Família | Mauro Faccioni Filho e Charles Odair da Silva | Animação | 16 mm | Florianópolis | 
-| 1987 | João Brasil | Zeca Pires | Ficção | Super 8 | Florianópolis | 
+| 1987 | Eis | Mauro Faccioni Filho | Documentário | BP | |
+| 1987 | Família | Mauro Faccioni Filho e Charles Odair da Silva | Animação | 16 mm | Florianópolis |
+| 1987 | João Brasil | Zeca Pires | Ficção | Super 8 | Florianópolis |
 | 1987 | Uma Administração | Desconhecido | Documentário | 16 mm | Chapecó  |
 |}
 
@@ -165,7 +165,7 @@ Exibido no 18º Festival de Cinema Brasileira de Gramado
 | 1996 | Ritinha | Antonio Celso dos Santos | Ficção | 35 mm | Florianópolis | Grua Produções Audiovisuais |
 | 1996 | Victor Meirelles: Quadros da Hstória | Penna Filho | Ficção | 35 mm | Florianópolis | Adalberto Penna Produções Cinematográficas | Selecionado para o 29º Festival de Brasilia do Cinema Brasileiro
 Selecionado para o 24º Festival de Cinema Brasileiro de Gramado
-| 1997 | Arquitetura | Luiza Lins e Ligia Walper | Documentário |  | Florianópolis |  | 
+| 1997 | Arquitetura | Luiza Lins e Ligia Walper | Documentário |  | Florianópolis |  |
 | 1998 | Bruxa Viva | Lena Bastos | Ficção | 35 mm | Florianópolis | |
 | 1998 | Experimentando | André Bob Barbosa | Documentário | Vídeo | Florianópolis | | Vencedor do Prêmio do Festival Internacional do Making Of 1999 – Categoria Universitário
 | 1998 | Na Estrada da Vida | Alan Langdon e Guilherme Ledoux | Ficção | Vídeo | Florianópolis | |
@@ -352,7 +352,7 @@ Prêmio especial do Juri – Forumdoc.bh 2005
 | 2007 | Delírios e Cigarros | Rhaissa Pinto; Taynah MIrandae; Thais Aguiar | Ficção | Vídeo | Florianópolis | |
 | 2007 | Desejos | Alessandra Collaço da Silva | Ficção | Vídeo | Florianópolis | |
 | 2007 | El Passaporte | Fernando Sá de Souza | Experimental | Vídeo | Florianópolis | |
-| 2007 | Elektra | Carla Italiano e Nina Kopko | Ficção | Vídeo | Florianópolis | | 
+| 2007 | Elektra | Carla Italiano e Nina Kopko | Ficção | Vídeo | Florianópolis | |
 | 2007 | Escuta-me | Tcharles Barbose | Ficção | Vídeo | Florianópolis | |
 | 2007 | Eu Soldadinho, ela Bailarina | Adriana Gama | FIcção | Vídeo | Florianópolis | |
 | 2007 | Guerra de Sombras | Fernando Leão | Ficção | Vídeo | Lages | |
@@ -426,7 +426,7 @@ Exibido na 32ª Mostra Internacional de Cinema de São Paulo
 | 2008 | Franklin Cascaes | Edina de Marco, José Rafael Mamigonian e Norberto Verani Depiozzolati | Documentário | | Florianópolis | |
 | 2008 | História da Cerveja em Santa Catarina | Andrés Peter | Documentário | Vídeo | Florianópolis | |
 | 2008 | A humanidade em cada um de nós | Elizabeth Santos Felício | Documentário | Vídeo | Florianópolis | |
-| 2008 | Interlúdio | Felipe Moraes | Ficção | Vídeo | Florianópolis | | 
+| 2008 | Interlúdio | Felipe Moraes | Ficção | Vídeo | Florianópolis | |
 | 2008 | Kamatori | Alexandre Fuchigami | Ficção | Vídeo | Florianópolis | |
 | 2008 | Martinho de Haro - A cidade reinventada | Chico Pereira | Documentário | Vídeo | Florianópolis  | |
 | 2008 | Meninos do Engenho | Ademir Damasco | Documentário | Vídeo | Florianópolis | |
@@ -451,7 +451,7 @@ Exibido na 32ª Mostra Internacional de Cinema de São Paulo
 | 2009 | Vago | Lucas Nero | Ficção | Vídeo | Florianópolis |  |
 | 2008 | Yasmin - Filme de Ficção | Cristiano Koji Kodama | Ficção | Vídeo | Florianópolis |  |
 | 2008 | Zebra | Luciano Razera | Ficção | Vídeo | Florianópolis |  |
-| 2009 | 2 Ways | Vandrei Jaques | Ficção | Vídeo | Florianópolis | | 
+| 2009 | 2 Ways | Vandrei Jaques | Ficção | Vídeo | Florianópolis | |
 | 2009 | 14 Noites | Christian Abes | Ficção | Vídeo | Florianópolis | |
 | 2009 | Amarras | Letícia Kapper | Documentário | Vídeo | Florianópolis | | Contemplado pelo Edital Armando Carreirão (FUNCINE)
 | 2009 |   ngelo, o coveiro | Renato Turnes | Ficção | Vídeo | Florianópolis | | Contemplado pelo Prêmio Catarinense de Cinema FCC 2007
@@ -464,7 +464,7 @@ Exibido na 32ª Mostra Internacional de Cinema de São Paulo
 | 2009 | O Corpo - Mente | Bruno Ropelato | Experimental | Vídeo | Florianópolis | |
 | 2009 | Da Janela | Giovana Zimermann e Sebastião Braga | Ficção | Vídeo | Florianópolis | |
 | 2009 | Desaprumo | Marcos Vinícius D’Elboux | Ficção | 35 mm | Florianópolis | |
-| 2009 | (Des)construção | Saulo Popov Zambiasi | Ficção | Vídeo | Chapecó | | 
+| 2009 | (Des)construção | Saulo Popov Zambiasi | Ficção | Vídeo | Chapecó | |
 | 2009 | Desenho Cego | Erica Passig | Ficção | Vídeo | Florianópolis | |
 | 2009 | O dia em que o boi veio para jantar | Fernanda Lago, Rafael Pereira, Renato Cristofoletti, Tatiana Lee e Maurício Muniz | Ficção | Vídeo | Florianópolis | |
 | 2009 | Domésticas para a vida | Paulo Henrique de Moura | Documentário | Vídeo | Itajaí | |
@@ -514,7 +514,7 @@ Exibido no FAM 2010
 | 2010 | Semvida | Diego Lara | Ficção | Vídeo | Itajaí |  | Financiado através da Lei Municipal da cidade de Itajaí
 | 2010 | SHHH! | Ayaça C. Castro | Experimental | Vídeo | Florianópolis |  |
 |  | 16 Horas | Graciele Galera e Paulo Henrique de Moura | Ficção | Vídeo | Itajaí | |
-|  | 2 em 1 - A evolução do amor | Vilmar Samuel Abreu | Ficção | Vídeo | Florianópolis | |   
+|  | 2 em 1 - A evolução do amor | Vilmar Samuel Abreu | Ficção | Vídeo | Florianópolis | |
 |  | ABC… Nunca é tarde para aprender | Dayves Augusto Vegini e Simone Castro | Documentário | | Itajaí | |
 |  | Abismal | Antônio Carlos | Ficção | | Florianópolis | |
 |  | Amigo Imaginário | Gurcianus Gewdner | FIcção | Vídeo | Palmitos | |
@@ -524,7 +524,7 @@ Exibido no FAM 2010
 |  | O Besouro e o Beija-Flor | Mika Plaza e Julião Goulart  | | | | |
 |  | Boa Sorte | Lucas Palpita | Experimental | Vídeo |  | |
 |  | Breve Passagem | Jefferson Bittencourt e Loli Menezes | Documentário | Vídeo | Florianópolis | |
-|  | Burguesa - História de gente e de lixo | Giane Maria de Souza | Documentário | Vídeo | Florianópolis | | 
+|  | Burguesa - História de gente e de lixo | Giane Maria de Souza | Documentário | Vídeo | Florianópolis | |
 |  | Capota de Fusca | Karla Simas | Ficção | Vídeo | Florianópolis | |
 | | Católicos e Protestantes - Um confluto em Santa Isabel | Direção coletiva | | Vídeo | | |
 |  | Cerâmica na Educação | Tânia Maria Ramires | Documentário | Vídeo | Florianópolis | |
@@ -685,7 +685,7 @@ http://www.pmf.sc.gov.br/funcine
 
 http://www.sopaodefilmes.blogspot.com/
 
-http://www.portacurtas.com.br/ 
+http://www.portacurtas.com.br/
 
 http://www.cinemateca.gov.br/
 

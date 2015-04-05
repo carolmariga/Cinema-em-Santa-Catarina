@@ -23,7 +23,6 @@ Existem poucos registros acerca do primeiro filme produzido em Santa Catarina. S
 | 1926 | Centenário de São José | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
 | 1926 | Chegada do Príncipe de Orleans e Bragança a Joinville | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
 | 1926 | Inauguração da Ponte Hercílio Luz | José Julianelli | Documentário | 35 mm | Florianópolis | Universum Filme
-|-
 | 1926 | Inauguração da Ponte de Indaial | José Julianelli | Documentário | 35 mm | Indaial | Universum Filme
 | 1926 | O Progresso de Blumenau | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
 | 1926 | Recepção à chegada em Blumenau do Ilustríssimo Dr. Adolpho Konder digno futuro governador do Estado de Santa Catarina | José Julianelli | Documentário | 35 mm | Blumenau | Universum Filme
